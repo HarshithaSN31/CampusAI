@@ -1,0 +1,162 @@
+[
+  {
+    "id": "CONF-0252",
+    "day": "MON",
+    "period": 6,
+    "room": "A209",
+    "sections": "5CSE01, 5CSE03",
+    "description": "Room A209 simultaneously allocated to sections 5CSE01, 5CSE03 (5CSE01:BDT, 5CSE03:MLLB1, 5CSE03:B2 (A222))",
+    "v1": "BDT",
+    "v2": "MLLB1"
+  },
+  {
+    "id": "CONF-0253",
+    "day": "THUR",
+    "period": 3,
+    "room": "A202",
+    "sections": "5CSE01, 5CSE05",
+    "description": "Room A202 simultaneously allocated to sections 5CSE01, 5CSE05 (5CSE01:MLL B1, 5CSE01:B2 (A222), 5CSE05:PEHV 2)",
+    "v1": "MLL B1",
+    "v2": "B2 (A222)"
+  },
+  {
+    "id": "CONF-0254",
+    "day": "MON",
+    "period": 3,
+    "room": "A212",
+    "sections": "5CSE06, 5CSE10",
+    "description": "Room A212 simultaneously allocated to sections 5CSE06, 5CSE10 (5CSE06:MLLB1, 5CSE06:B2 (A222), 5CSE10:CCT)",
+    "v1": "MLLB1",
+    "v2": "B2 (A222)"
+  },
+  {
+    "id": "CONF-0256",
+    "day": "WED",
+    "period": 3,
+    "room": "A303",
+    "sections": "5CSE11, 5CSE15",
+    "description": "Room A303 simultaneously allocated to sections 5CSE11, 5CSE15 (5CSE11:MLLB1, 5CSE11:B2 (A222), 5CSE15:BDT)",
+    "v1": "MLLB1",
+    "v2": "B2 (A222)"
+  },
+  {
+    "id": "CONF-0257",
+    "day": "TUE",
+    "period": 1,
+    "room": "A304",
+    "sections": "5CSE12, 5CSE14",
+    "description": "Room A304 simultaneously allocated to sections 5CSE12, 5CSE14 (5CSE12:MLLB1, 5CSE12:B2 (A222), 5CSE14:DM)",
+    "v1": "MLLB1",
+    "v2": "B2 (A222)"
+  },
+  {
+    "id": "CONF-0258",
+    "day": "THUR",
+    "period": 6,
+    "room": "A308",
+    "sections": "5CSE13, 5CSE14",
+    "description": "Room A308 simultaneously allocated to sections 5CSE13, 5CSE14 (5CSE13:MLLB1, 5CSE13:B2 (A222), 5CSE14:BDT)",
+    "v1": "MLLB1",
+    "v2": "B2 (A222)"
+  },
+  {
+    "id": "CONF-0259",
+    "day": "THUR",
+    "period": 3,
+    "room": "A312",
+    "sections": "5CSE16, 5CSE20",
+    "description": "Room A312 simultaneously allocated to sections 5CSE16, 5CSE20 (5CSE16:MLL  B1, 5CSE16:B2(A322), 5CSE20:FLAT)",
+    "v1": "MLL  B1",
+    "v2": "B2(A322)"
+  },
+  {
+    "id": "CONF-0260",
+    "day": "WED",
+    "period": 1,
+    "room": "A319",
+    "sections": "5CSE17, 5CSE19",
+    "description": "Room A319 simultaneously allocated to sections 5CSE17, 5CSE19 (5CSE17:MLL B1, 5CSE17:B2(A322), 5CSE19:PEHV 2)",
+    "v1": "MLL B1",
+    "v2": "B2(A322)"
+  },
+  {
+    "id": "CONF-0261",
+    "day": "MON",
+    "period": 3,
+    "room": "A403",
+    "sections": "5CSE21, 5CSE25",
+    "description": "Room A403 simultaneously allocated to sections 5CSE21, 5CSE25 (5CSE21:MLL B1, 5CSE21:B2 (A322), 5CSE25:FLAT)",
+    "v1": "MLL B1",
+    "v2": "B2 (A322)"
+  },
+  {
+    "id": "CONF-0262",
+    "day": "THUR",
+    "period": 3,
+    "room": "A404",
+    "sections": "5CSE22, 5CSE25",
+    "description": "Room A404 simultaneously allocated to sections 5CSE22, 5CSE25 (5CSE22:BDT, 5CSE25:CCTL)",
+    "v1": "BDT",
+    "v2": "CCTL"
+  },
+  {
+    "id": "CONF-0263",
+    "day": "THUR",
+    "period": 6,
+    "room": "A426",
+    "sections": "5CSE29, 5CSE30",
+    "description": "Room A426 simultaneously allocated to sections 5CSE29, 5CSE30 (5CSE29:MLL B1, 5CSE29:B2 (A322), 5CSE30:CCT)",
+    "v1": "MLL B1",
+    "v2": "B2 (A322)"
+  },
+  {
+    "id": "CONF-0264",
+    "day": "MON",
+    "period": 6,
+    "room": "A504",
+    "sections": "5CSE31, 5CSE33",
+    "description": "Room A504 simultaneously allocated to sections 5CSE31, 5CSE33 (5CSE31:BDT, 5CSE33:MLL A822 B1, 5CSE33:B2 A808)",
+    "v1": "BDT",
+    "v2": "MLL A822 B1"
+  },
+  {
+    "id": "CONF-0265",
+    "day": "THUR",
+    "period": 3,
+    "room": "A501",
+    "sections": "5CSE31, 5CSE35",
+    "description": "Room A501 simultaneously allocated to sections 5CSE31, 5CSE35 (5CSE31:MLL A822 B1, 5CSE31:B2 A808, 5CSE35:PEHV 2)",
+    "v1": "MLL A822 B1",
+    "v2": "B2 A808"
+  },
+  {
+    "id": "CONF-0267",
+    "day": "WED",
+    "period": 4,
+    "room": "A503",
+    "sections": "5CSE32, 5CSE34",
+    "description": "Room A503 simultaneously allocated to sections 5CSE32, 5CSE34 (5CSE32:BDT, 5CSE34:FLAT)",
+    "v1": "BDT",
+    "v2": "FLAT"
+  },
+  {
+    "id": "CONF-0268",
+    "day": "MON",
+    "period": 6,
+    "room": "A511",
+    "sections": "5CSE37, 5CSE40",
+    "description": "Room A511 simultaneously allocated to sections 5CSE37, 5CSE40 (5CSE37:A522, 5CSE40:DM)",
+    "v1": "A522",
+    "v2": "DM"
+  },
+  {
+    "id": "CONF-0269",
+    "day": "WED",
+    "period": 6,
+    "room": "A513",
+    "sections": "5CSE38, 5CSE39",
+    "description": "Room A513 simultaneously allocated to sections 5CSE38, 5CSE39 (5CSE38:MLL A822 B1, 5CSE38:B2 A808, 5CSE39:BDT)",
+    "v1": "MLL A822 B1",
+    "v2": "B2 A808"
+  }
+]
