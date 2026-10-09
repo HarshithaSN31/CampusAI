@@ -1,0 +1,1431 @@
+{
+  "sheets": {
+    "TIME TABLE 15-09-2026": {
+      "max_row": 2162,
+      "max_column": 26,
+      "merged_cell_count": 2119,
+      "merged_cell_samples": [
+        "D470:D474",
+        "C918:E918",
+        "B861:C861",
+        "G1025:K1025",
+        "G813:K813",
+        "C621:E621",
+        "G806:K806",
+        "C919:E919",
+        "H538:J538",
+        "G1113:K1113"
+      ]
+    },
+    "ELECTIVE": {
+      "max_row": 43,
+      "max_column": 15,
+      "merged_cell_count": 88,
+      "merged_cell_samples": [
+        "I32:I33",
+        "E8:E9",
+        "I16:I17",
+        "A16:A17",
+        "E10:E11",
+        "I26:I27",
+        "I18:I19",
+        "A2:A3",
+        "E2:E3",
+        "A22:A23"
+      ]
+    },
+    "TIME TABLE": {
+      "max_row": 2162,
+      "max_column": 26,
+      "merged_cell_count": 2160,
+      "merged_cell_samples": [
+        "D470:D474",
+        "C918:E918",
+        "B861:C861",
+        "G1025:K1025",
+        "G813:K813",
+        "C621:E621",
+        "G806:K806",
+        "C919:E919",
+        "H538:J538",
+        "G1113:K1113"
+      ]
+    }
+  },
+  "samples": {
+    "TIME TABLE 15-09-2026": [
+      {
+        "row": 1,
+        "values": [
+          "School of Engineering and Technology",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 2,
+        "values": [
+          "Department of Computer Science and Engineering",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 3,
+        "values": [
+          "Time Table w.e.f ",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 4,
+        "values": [
+          "Academic Year",
+          "",
+          "2026-2027",
+          "",
+          "",
+          "",
+          "",
+          "Semester : V",
+          "",
+          "",
+          "Class Room",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 5,
+        "values": [
+          "Class Advisor:",
+          "",
+          "Kavya M",
+          "",
+          "",
+          "",
+          "",
+          "Section : 5CSE01",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 6,
+        "values": [
+          "Semester Commences:",
+          "",
+          "",
+          "",
+          "",
+          "Semester Ends:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 7,
+        "values": [
+          "PERIOD",
+          "1",
+          "2",
+          "",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 8,
+        "values": [
+          "Day/Time",
+          "9:00 to 10:00",
+          "10:00 to 11:00",
+          "11.00 - 11.15",
+          "11.15 to 12.15",
+          "12:15 to 1:15",
+          "1:15 to 02:15",
+          "2:15 to 03:10",
+          "3:10 to 04:05",
+          "4:05 to 05:00",
+          "Allocation",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 9,
+        "values": [
+          "MON",
+          "CCTL(B1)A405 / BDTL(B2)A625",
+          "",
+          "Tea Break",
+          "ML(A203)",
+          "FLAT(A203)",
+          "Lunch Break",
+          "BDT(A209)",
+          "PEHV",
+          "",
+          "A203/A209",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 10,
+        "values": [
+          "TUE",
+          "BDT",
+          "FLAT",
+          "",
+          "CTVA 1",
+          "",
+          "",
+          "CCTL(B2)A525 / BDTL(B1)A505",
+          "",
+          "",
+          "A202",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 11,
+        "values": [
+          "WED",
+          "FLAT",
+          "BDT",
+          "",
+          "DM",
+          "PE-2",
+          "",
+          "FOD",
+          "CCT",
+          "",
+          "A202, ST-A203, FOD-A202",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 12,
+        "values": [
+          "THUR",
+          "FOD",
+          "PE-2",
+          "",
+          "MLL B1/B2 (A222)",
+          "",
+          "",
+          "DM",
+          "ML",
+          "",
+          "A202, ST-A203, FOD-A202",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 13,
+        "values": [
+          "FRI",
+          "DM",
+          "PE-2",
+          "",
+          "CTVA 2",
+          "",
+          "",
+          "FOD",
+          "CCT",
+          "",
+          "A202, ST-A203, FOD-A202",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 14,
+        "values": [
+          "Course Allocation",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 15,
+        "values": [
+          "Sl. No.",
+          "Course Code",
+          "Course Name",
+          "",
+          "",
+          "Short Code",
+          "Course Faculty",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 16,
+        "values": [
+          "1",
+          "24BECSE501",
+          "Cloud Computing Technology",
+          "",
+          "",
+          "CCT",
+          "Vikram N R ",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 17,
+        "values": [
+          "2",
+          "24BECSE502",
+          "Big Data Tools and Techniques",
+          "",
+          "",
+          "BDT",
+          "Kavya M",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 18,
+        "values": [
+          "3",
+          "24BECSE503",
+          "Machine Learning",
+          "",
+          "",
+          "ML",
+          "A  Ranjini",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 19,
+        "values": [
+          "4",
+          "24BECSE504",
+          "Formal Languages and Automata Theory",
+          "",
+          "",
+          "FLAT",
+          "Divya Visakh",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 20,
+        "values": [
+          "5",
+          "24BECSE505",
+          "Digital Marketing",
+          "",
+          "",
+          "DM",
+          "Monisha R",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 21,
+        "values": [
+          "6",
+          "24BECSE506",
+          "Professional Ethics and Human Values",
+          "",
+          "",
+          "PEHV",
+          "Dhanush K ",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 22,
+        "values": [
+          "7",
+          "24BECSE52X",
+          "Professional Elective II",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 23,
+        "values": [
+          "",
+          "24BECSE521",
+          "Data Mining and Wrangling ",
+          "",
+          "",
+          "DWM ",
+          "Dr. Prasath Srinivasan",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 24,
+        "values": [
+          "",
+          "25BECSE522",
+          "Software Testing",
+          "",
+          "",
+          "ST",
+          "Vani BA",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ],
+    "ELECTIVE": [
+      {
+        "row": 1,
+        "values": [
+          "MultimediAComputing",
+          "",
+          "",
+          "",
+          "Distributed Computing",
+          "",
+          "",
+          "",
+          "MultimediAComputing",
+          "",
+          "",
+          "",
+          "Distributed Computing",
+          ""
+        ]
+      },
+      {
+        "row": 2,
+        "values": [
+          "\ud83c\udf93 Group 1",
+          "4CSE01",
+          "35",
+          "",
+          "\ud83c\udf93 Group 1",
+          "4CSE01",
+          "24",
+          "",
+          "\ud83c\udf93 Group 1",
+          "4CSE01",
+          "35",
+          "",
+          "\ud83c\udf93 Group 1",
+          "4CSE01"
+        ]
+      },
+      {
+        "row": 3,
+        "values": [
+          "",
+          "4CSE02",
+          "30",
+          "",
+          "",
+          "4CSE02",
+          "29",
+          "",
+          "",
+          "4CSE02",
+          "30",
+          "",
+          "",
+          "4CSE02"
+        ]
+      },
+      {
+        "row": 4,
+        "values": [
+          "\ud83c\udf93 Group 2",
+          "4CSE03",
+          "38",
+          "",
+          "\ud83c\udf93 Group 2",
+          "4CSE03",
+          "21",
+          "",
+          "\ud83c\udf93 Group 2",
+          "4CSE03",
+          "38",
+          "",
+          "\ud83c\udf93 Group 2",
+          "4CSE03"
+        ]
+      },
+      {
+        "row": 5,
+        "values": [
+          "",
+          "4CSE04",
+          "24",
+          "",
+          "",
+          "4CSE04",
+          "35",
+          "",
+          "",
+          "4CSE04",
+          "24",
+          "",
+          "",
+          "4CSE04"
+        ]
+      },
+      {
+        "row": 6,
+        "values": [
+          "\ud83c\udf93 Group 3",
+          "4CSE05",
+          "35",
+          "",
+          "\ud83c\udf93 Group 3",
+          "4CSE05",
+          "25",
+          "",
+          "\ud83c\udf93 Group 3",
+          "4CSE05",
+          "35",
+          "",
+          "\ud83c\udf93 Group 3",
+          "4CSE05"
+        ]
+      },
+      {
+        "row": 7,
+        "values": [
+          "",
+          "4CSE06",
+          "28",
+          "",
+          "",
+          "4CSE06",
+          "31",
+          "",
+          "",
+          "4CSE06",
+          "28",
+          "",
+          "",
+          "4CSE06"
+        ]
+      },
+      {
+        "row": 8,
+        "values": [
+          "\ud83c\udf93 Group 4",
+          "4CSE08",
+          "21",
+          "",
+          "\ud83c\udf93 Group 4",
+          "4CSE08",
+          "40",
+          "",
+          "\ud83c\udf93 Group 4",
+          "4CSE08",
+          "21",
+          "",
+          "\ud83c\udf93 Group 4",
+          "4CSE08"
+        ]
+      },
+      {
+        "row": 9,
+        "values": [
+          "",
+          "4CSE10",
+          "40",
+          "",
+          "",
+          "4CSE10",
+          "18",
+          "",
+          "",
+          "4CSE10",
+          "40",
+          "",
+          "",
+          "4CSE10"
+        ]
+      },
+      {
+        "row": 10,
+        "values": [
+          "\ud83c\udf93 Group 5",
+          "4CSE09",
+          "32",
+          "",
+          "\ud83c\udf93 Group 5",
+          "4CSE09",
+          "29",
+          "",
+          "\ud83c\udf93 Group 5",
+          "4CSE09",
+          "32",
+          "",
+          "\ud83c\udf93 Group 5",
+          "4CSE09"
+        ]
+      },
+      {
+        "row": 11,
+        "values": [
+          "",
+          "4CSE11",
+          "25",
+          "",
+          "",
+          "4CSE11",
+          "33",
+          "",
+          "",
+          "4CSE11",
+          "25",
+          "",
+          "",
+          "4CSE11"
+        ]
+      },
+      {
+        "row": 12,
+        "values": [
+          "\ud83c\udf93 Group 6",
+          "4CSE07",
+          "29",
+          "",
+          "\ud83c\udf93 Group 6",
+          "4CSE07",
+          "32",
+          "",
+          "\ud83c\udf93 Group 6",
+          "4CSE07",
+          "29",
+          "",
+          "\ud83c\udf93 Group 6",
+          "4CSE07"
+        ]
+      },
+      {
+        "row": 13,
+        "values": [
+          "",
+          "4CSE12",
+          "31",
+          "",
+          "",
+          "4CSE12",
+          "28",
+          "",
+          "",
+          "4CSE12",
+          "31",
+          "",
+          "",
+          "4CSE12"
+        ]
+      },
+      {
+        "row": 14,
+        "values": [
+          "\ud83c\udf93 Group 7",
+          "4CSE17",
+          "23",
+          "",
+          "\ud83c\udf93 Group 7",
+          "4CSE17",
+          "36",
+          "",
+          "\ud83c\udf93 Group 7",
+          "4CSE17",
+          "23",
+          "",
+          "\ud83c\udf93 Group 7",
+          "4CSE17"
+        ]
+      },
+      {
+        "row": 15,
+        "values": [
+          "",
+          "4CSE18",
+          "37",
+          "",
+          "",
+          "4CSE18",
+          "22",
+          "",
+          "",
+          "4CSE18",
+          "37",
+          "",
+          "",
+          "4CSE18"
+        ]
+      },
+      {
+        "row": 16,
+        "values": [
+          "\ud83c\udf93 Group 8",
+          "4CSE13",
+          "31",
+          "",
+          "\ud83c\udf93 Group 8",
+          "4CSE13",
+          "28",
+          "",
+          "\ud83c\udf93 Group 8",
+          "4CSE13",
+          "31",
+          "",
+          "\ud83c\udf93 Group 8",
+          "4CSE13"
+        ]
+      },
+      {
+        "row": 17,
+        "values": [
+          "",
+          "4CSE16",
+          "29",
+          "",
+          "",
+          "4CSE16",
+          "29",
+          "",
+          "",
+          "4CSE16",
+          "29",
+          "",
+          "",
+          "4CSE16"
+        ]
+      },
+      {
+        "row": 18,
+        "values": [
+          "\ud83c\udf93 Group 9",
+          "4CSE14",
+          "32",
+          "",
+          "\ud83c\udf93 Group 9",
+          "4CSE14",
+          "27",
+          "",
+          "\ud83c\udf93 Group 9",
+          "4CSE14",
+          "32",
+          "",
+          "\ud83c\udf93 Group 9",
+          "4CSE14"
+        ]
+      },
+      {
+        "row": 19,
+        "values": [
+          "",
+          "4CSE15",
+          "28",
+          "",
+          "",
+          "4CSE15",
+          "30",
+          "",
+          "",
+          "4CSE15",
+          "28",
+          "",
+          "",
+          "4CSE15"
+        ]
+      },
+      {
+        "row": 20,
+        "values": [
+          "\ud83c\udf93 Group 10",
+          "4CSE21",
+          "34",
+          "",
+          "\ud83c\udf93 Group 10",
+          "4CSE21",
+          "27",
+          "",
+          "\ud83c\udf93 Group 10",
+          "4CSE21",
+          "34",
+          "",
+          "\ud83c\udf93 Group 10",
+          "4CSE21"
+        ]
+      },
+      {
+        "row": 21,
+        "values": [
+          "",
+          "4CSE23",
+          "25",
+          "",
+          "",
+          "4CSE23",
+          "32",
+          "",
+          "",
+          "4CSE23",
+          "25",
+          "",
+          "",
+          "4CSE23"
+        ]
+      },
+      {
+        "row": 22,
+        "values": [
+          "\ud83c\udf93 Group 11",
+          "4CSE20",
+          "35",
+          "",
+          "\ud83c\udf93 Group 11",
+          "4CSE20",
+          "26",
+          "",
+          "\ud83c\udf93 Group 11",
+          "4CSE20",
+          "35",
+          "",
+          "\ud83c\udf93 Group 11",
+          "4CSE20"
+        ]
+      },
+      {
+        "row": 23,
+        "values": [
+          "",
+          "4CSE22",
+          "25",
+          "",
+          "",
+          "4CSE22",
+          "34",
+          "",
+          "",
+          "4CSE22",
+          "25",
+          "",
+          "",
+          "4CSE22"
+        ]
+      },
+      {
+        "row": 24,
+        "values": [
+          "\ud83c\udf93 Group 12",
+          "4CSE19",
+          "33",
+          "",
+          "\ud83c\udf93 Group 12",
+          "4CSE19",
+          "29",
+          "",
+          "\ud83c\udf93 Group 12",
+          "4CSE19",
+          "33",
+          "",
+          "\ud83c\udf93 Group 12",
+          "4CSE19"
+        ]
+      }
+    ],
+    "TIME TABLE": [
+      {
+        "row": 1,
+        "values": [
+          "School of Engineering and Technology",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 2,
+        "values": [
+          "Department of Computer Science and Engineering",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 3,
+        "values": [
+          "Time Table w.e.f ",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 4,
+        "values": [
+          "Academic Year",
+          "",
+          "2026-2027",
+          "",
+          "",
+          "",
+          "",
+          "Semester : V",
+          "",
+          "",
+          "Class Room",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 5,
+        "values": [
+          "Class Advisor:",
+          "",
+          "Kavya M",
+          "",
+          "",
+          "",
+          "",
+          "Section : 5CSE01",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 6,
+        "values": [
+          "Semester Commences:",
+          "",
+          "",
+          "",
+          "",
+          "Semester Ends:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 7,
+        "values": [
+          "PERIOD",
+          "1",
+          "2",
+          "",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 8,
+        "values": [
+          "Day/Time",
+          "9:00 to 10:00",
+          "10:00 to 11:00",
+          "11.00 - 11.15",
+          "11.15 to 12.15",
+          "12:15 to 1:15",
+          "1:15 to 02:15",
+          "2:15 to 03:10",
+          "3:10 to 04:05",
+          "4:05 to 05:00",
+          "Allocation",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 9,
+        "values": [
+          "MON",
+          "CCTL(B1)A405 / BDTL(B2)A625",
+          "",
+          "Tea Break",
+          "ML(A203)",
+          "FLAT(A203)",
+          "Lunch Break",
+          "BDT(A209)",
+          "",
+          "",
+          "A203/A209",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 10,
+        "values": [
+          "TUE",
+          "BDT",
+          "FLAT",
+          "",
+          "PEHV 1",
+          "",
+          "",
+          "CCTL(B2)A525 / BDTL(B1)A505",
+          "",
+          "",
+          "A202",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 11,
+        "values": [
+          "WED",
+          "FLAT",
+          "BDT",
+          "",
+          "DM",
+          "PE-2",
+          "",
+          "PE-3",
+          "CCT",
+          "",
+          "A202, ST-A203, DOM-A203",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 12,
+        "values": [
+          "THUR",
+          "PE-3",
+          "PE-2",
+          "",
+          "MLL B1/B2 (A222)",
+          "",
+          "",
+          "DM",
+          "ML",
+          "",
+          "A202, ST-A203, DOM-A203",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 13,
+        "values": [
+          "FRI",
+          "DM",
+          "PE-2",
+          "",
+          "PEHV 2",
+          "",
+          "",
+          "PE-3",
+          "CCT",
+          "",
+          "A202, ST-A203, DOM-A203",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 14,
+        "values": [
+          "Course Allocation",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 15,
+        "values": [
+          "Sl. No.",
+          "Course Code",
+          "Course Name",
+          "",
+          "",
+          "Short Code",
+          "Course Faculty",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 16,
+        "values": [
+          "1",
+          "24BECSE501",
+          "Cloud Computing Technology",
+          "",
+          "",
+          "CCT",
+          "Vikram N R ",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 17,
+        "values": [
+          "2",
+          "24BECSE502",
+          "Big Data Tools and Techniques",
+          "",
+          "",
+          "BDT",
+          "Kavya M",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 18,
+        "values": [
+          "3",
+          "24BECSE503",
+          "Machine Learning",
+          "",
+          "",
+          "ML",
+          "A  Ranjini",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 19,
+        "values": [
+          "4",
+          "24BECSE504",
+          "Formal Languages and Automata Theory",
+          "",
+          "",
+          "FLAT",
+          "Divya Visakh",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 20,
+        "values": [
+          "5",
+          "24BECSE505",
+          "Digital Marketing",
+          "",
+          "",
+          "DM",
+          "Monisha R",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 21,
+        "values": [
+          "6",
+          "24BECSE506",
+          "Professional Ethics and Human Values",
+          "",
+          "",
+          "PEHV",
+          "PEHV1(HRD1) PEHV2 (HRD5)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 22,
+        "values": [
+          "7",
+          "24BECSE52X",
+          "Professional Elective II",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 23,
+        "values": [
+          "",
+          "24BECSE521",
+          "Data Mining and Wrangling ",
+          "",
+          "",
+          "DWM ",
+          "Dr. Prasath Srinivasan",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "row": 24,
+        "values": [
+          "",
+          "25BECSE522",
+          "Software Testing",
+          "",
+          "",
+          "ST",
+          "Vani BA",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  }
+}
