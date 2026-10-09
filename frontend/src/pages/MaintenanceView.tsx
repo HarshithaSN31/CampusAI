@@ -1,207 +1,262 @@
-import React, { useState, useEffect } from "react";
-import { Wrench, Plus, CheckCircle2, AlertCircle, Clock, Send } from "lucide-react";
-import { fetchMaintenanceTickets, submitMaintenanceTicket } from "../services/api";
-import { MaintenanceTicket } from "../types/campus";
+import React, { useState } from "react";
+import { CheckCircle2, ChevronDown, Check } from "lucide-react";
+
+interface Ticket {
+  id: string;
+  room: string;
+  category: string;
+  details: string;
+  status: "Open" | "In progress" | "Fixed";
+}
 
 export const MaintenanceView: React.FC = () => {
-  const [tickets, setTickets] = useState<MaintenanceTicket[]>([]);
-  const [room, setRoom] = useState("A203");
-  const [category, setCategory] = useState("Projector & Display");
-  const [priority, setPriority] = useState<any>("HIGH");
-  const [description, setDescription] = useState("");
-  const [submitting, setSubmitting] = useState(false);
-  const [successMsg, setSuccessMsg] = useState("");
+  const [room, setRoom] = useState("A202");
+  const [selectedCategory, setSelectedCategory] = useState("AC / Fan");
+  const [details, setDetails] = useState("");
+  const [toastMessage, setToastMessage] = useState<string | null>(null);
 
   const rooms = [
-    "A202", "A203", "A209", "A210", "A212", "A222", "A225", "A301", "A303", 
-    "A304", "A308", "A310", "A312", "A319", "A321", "A322", "A325", "A401", 
-    "A405", "A408", "A422", "A501", "A522", "A525", "A625"
+    "A202", "A203", "A209", "A210", "A212", "A219", "A222", "A225",
+    "A301", "A303", "A304", "A308", "A310", "A312", "A319", "A321", "A322", "A325",
+    "A401", "A403", "A404", "A405", "A407", "A408", "A409", "A410", "A411", "A413",
+    "A420", "A422", "A423", "A426", "A501", "A503", "A504", "A505", "A507", "A508",
+    "A509", "A510", "A511", "A513", "A520", "A522", "A525", "A526", "A622"
   ];
 
-  useEffect(() => {
-    async function load() {
-      try {
-        const data = await fetchMaintenanceTickets();
-        setTickets(data);
-      } catch (e) {
-        console.error(e);
-      }
-    }
-    load();
-  }, []);
+  const problemOptions = [
+    "Projector",
+    "AC / Fan",
+    "Lights",
+    "Wi-Fi",
+    "Furniture",
+    "Other"
+  ];
 
-  const handleSubmit = async (e: React.FormEvent) => {
+  // Initial tickets matching user's exact screenshot
+  const [tickets, setTickets] = useState<Ticket[]>([
+    {
+      id: "t-1",
+      room: "A202",
+      category: "AC / Fan",
+      details: "—",
+      status: "Open"
+    },
+    {
+      id: "t-2",
+      room: "A203",
+      category: "Projector",
+      details: "No HDMI signal",
+      status: "Fixed"
+    },
+    {
+      id: "t-3",
+      room: "A405",
+      category: "AC / Fan",
+      details: "Fan making noise",
+      status: "Fixed"
+    }
+  ]);
+
+  const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    if (!description.trim()) return;
+    const newTicket: Ticket = {
+      id: `t-${Date.now()}`,
+      room,
+      category: selectedCategory,
+      details: details.trim() || "—",
+      status: "Open"
+    };
 
-    setSubmitting(true);
-    try {
-      const newT = await submitMaintenanceTicket({
-        building: "Academic Block A",
-        room,
-        category,
-        priority,
-        description,
-        reported_by: "Campus Faculty"
-      });
-      setTickets(prev => [newT, ...prev]);
-      setDescription("");
-      setSuccessMsg("Issue ticket created and dispatched to campus facilities!");
-      setTimeout(() => setSuccessMsg(""), 4000);
-    } catch (e) {
-      console.error(e);
-    } finally {
-      setSubmitting(false);
-    }
+    setTickets([newTicket, ...tickets]);
+    setDetails("");
+    setToastMessage(`Issue reported for ${room}`);
+    setTimeout(() => {
+      setToastMessage(null);
+    }, 4000);
+  };
+
+  // Progression handler: Open -> In progress -> Fixed
+  const handleNextStatus = (ticketId: string) => {
+    setTickets(prev =>
+      prev.map(t => {
+        if (t.id === ticketId) {
+          if (t.status === "Open") return { ...t, status: "In progress" };
+          if (t.status === "In progress") return { ...t, status: "Fixed" };
+          return t;
+        }
+        return t;
+      })
+    );
   };
 
   return (
-    <div className="space-y-8 animate-in fade-in duration-300">
-      {/* Header */}
-      <div>
-        <div className="eyebrow mb-1">Facility operations</div>
-        <h1 className="text-3xl md:text-4xl font-extrabold text-white tracking-tight">
-          Report an issue
-        </h1>
-        <p className="text-[var(--muted-foreground)] text-sm md:text-base mt-1.5">
-          Broken projector, AC, lights…
-        </p>
+    <div className="space-y-6 animate-in fade-in duration-200">
+      {/* Top Header Row with Time pill */}
+      <div className="flex items-start justify-between">
+        <div>
+          <div className="text-[11px] font-bold tracking-wider text-cyan-400 uppercase">
+            MAINTENANCE
+          </div>
+          <h1 className="text-3xl font-extrabold text-white tracking-tight mt-1">
+            Report an issue
+          </h1>
+          <p className="text-slate-400 text-xs mt-1">
+            Takes 10 seconds. The facilities team is notified instantly.
+          </p>
+        </div>
+
+        <div className="px-3 py-1 rounded-full bg-[#121c29] border border-[#1d2d42] text-[11px] font-medium text-slate-300">
+          Fri, 01:25 pm
+        </div>
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-        {/* Report Form */}
-        <div className="glass p-6 lg:col-span-1 space-y-4">
-          <h2 className="text-base font-bold text-white flex items-center gap-2">
-            <Wrench size={18} className="text-[var(--primary)]" />
-            <span>Submit new ticket</span>
-          </h2>
-
-          <form onSubmit={handleSubmit} className="space-y-3.5 text-xs">
+      {/* Main Grid: Form on Left, Open Tickets on Right */}
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
+        {/* Left Form: Takes 5 columns */}
+        <div className="lg:col-span-5 p-5 rounded-2xl bg-[#0c1420] border border-[#182638] space-y-4">
+          <form onSubmit={handleSubmit} className="space-y-4 text-xs">
+            {/* Room Selector */}
             <div>
-              <label className="text-[var(--muted-foreground)] font-semibold block mb-1">
-                Room Number
+              <label className="text-slate-400 font-semibold block mb-1.5">
+                Room
               </label>
-              <select
-                value={room}
-                onChange={(e) => setRoom(e.target.value)}
-                className="w-full glass p-2.5 text-xs text-white focus:outline-none focus:border-[var(--primary)] cursor-pointer"
-              >
-                {rooms.map(r => (
-                  <option key={r} value={r} className="bg-slate-900 text-white">{r}</option>
+              <div className="relative">
+                <select
+                  value={room}
+                  onChange={(e) => setRoom(e.target.value)}
+                  className="w-full appearance-none bg-[#09101a] border border-[#1e2f46] text-white text-xs font-semibold px-3 py-2.5 rounded-xl cursor-pointer focus:outline-none focus:border-cyan-500"
+                >
+                  {rooms.map((r) => (
+                    <option key={r} value={r} className="bg-slate-900 text-white">
+                      {r}
+                    </option>
+                  ))}
+                </select>
+                <ChevronDown size={14} className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 pointer-events-none" />
+              </div>
+            </div>
+
+            {/* Problem Category Chips */}
+            <div>
+              <label className="text-slate-400 font-semibold block mb-2">
+                Problem
+              </label>
+              <div className="flex flex-wrap gap-2">
+                {problemOptions.map((opt) => (
+                  <button
+                    type="button"
+                    key={opt}
+                    onClick={() => setSelectedCategory(opt)}
+                    className={`px-3 py-1.5 rounded-full text-xs font-semibold transition-all ${
+                      selectedCategory === opt
+                        ? "bg-[#18535f] text-cyan-200 border border-[#2b7e90] shadow-sm"
+                        : "bg-[#09101a] text-slate-400 border border-[#1b2b3f] hover:text-white hover:bg-slate-800"
+                    }`}
+                  >
+                    {opt}
+                  </button>
                 ))}
-              </select>
+              </div>
             </div>
 
+            {/* Details (Optional) */}
             <div>
-              <label className="text-[var(--muted-foreground)] font-semibold block mb-1">
-                Category
-              </label>
-              <select
-                value={category}
-                onChange={(e) => setCategory(e.target.value)}
-                className="w-full glass p-2.5 text-xs text-white focus:outline-none focus:border-[var(--primary)] cursor-pointer"
-              >
-                <option value="Projector & Display">Projector & Display</option>
-                <option value="HVAC / Air Conditioning">HVAC / Air Conditioning</option>
-                <option value="Electrical & Lighting">Electrical & Lighting</option>
-                <option value="Furniture & Seating">Furniture & Seating</option>
-                <option value="Network / Wi-Fi">Network / Wi-Fi</option>
-              </select>
-            </div>
-
-            <div>
-              <label className="text-[var(--muted-foreground)] font-semibold block mb-1">
-                Priority
-              </label>
-              <select
-                value={priority}
-                onChange={(e) => setPriority(e.target.value)}
-                className="w-full glass p-2.5 text-xs text-white focus:outline-none focus:border-[var(--primary)] cursor-pointer"
-              >
-                <option value="CRITICAL">Critical (Blocks Class)</option>
-                <option value="HIGH">High (Urgent)</option>
-                <option value="MEDIUM">Medium</option>
-                <option value="LOW">Low</option>
-              </select>
-            </div>
-
-            <div>
-              <label className="text-[var(--muted-foreground)] font-semibold block mb-1">
-                Description
+              <label className="text-slate-400 font-semibold block mb-1.5">
+                Details (optional)
               </label>
               <textarea
                 rows={3}
-                value={description}
-                onChange={(e) => setDescription(e.target.value)}
-                placeholder="What is broken? e.g. Projector turns off after 5 mins, lamp warning light..."
-                className="w-full glass p-2.5 text-xs text-white placeholder-[var(--muted-foreground)] focus:outline-none focus:border-[var(--primary)]"
-                required
+                value={details}
+                onChange={(e) => setDetails(e.target.value)}
+                placeholder=""
+                className="w-full bg-[#09101a] border border-[#1e2f46] text-white text-xs p-3 rounded-xl focus:outline-none focus:border-cyan-500 resize-none"
               ></textarea>
             </div>
 
-            {successMsg && (
-              <div className="p-2.5 rounded-lg bg-[var(--success)]/20 border border-[var(--success)]/40 text-[var(--success)] text-xs font-semibold flex items-center gap-1.5">
-                <CheckCircle2 size={14} />
-                <span>{successMsg}</span>
-              </div>
-            )}
-
+            {/* Submit Button */}
             <button
               type="submit"
-              disabled={submitting}
-              className="w-full py-2.5 rounded-full font-bold text-xs brand-mark shadow-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-1.5"
+              className="w-full py-3 rounded-xl font-bold text-xs bg-[#1db5a4] hover:bg-[#189e8f] text-slate-950 shadow-md transition-all cursor-pointer"
             >
-              <Send size={13} />
-              <span>{submitting ? "Submitting..." : "Submit Report"}</span>
+              Submit report
             </button>
           </form>
         </div>
 
-        {/* Existing Tickets List */}
-        <div className="glass p-6 lg:col-span-2 space-y-4">
-          <div className="flex items-center justify-between">
-            <div>
-              <h2 className="text-base font-bold text-white">Active maintenance requests</h2>
-              <p className="text-xs text-[var(--muted-foreground)] mt-0.5">
-                {tickets.length} reported issues across campus
-              </p>
-            </div>
-            <span className="chip text-[11px]">Facility Ops</span>
-          </div>
+        {/* Right List: Takes 7 columns */}
+        <div className="lg:col-span-7 p-6 rounded-2xl bg-[#0c1420] border border-[#182638] space-y-4">
+          <h2 className="text-base font-bold text-white tracking-tight">
+            Open tickets
+          </h2>
 
-          <div className="space-y-3 pt-2">
-            {tickets.map((t) => (
-              <div
-                key={t.id}
-                className="p-4 rounded-xl border border-[var(--border)] bg-[var(--card)]/40 space-y-2 hover:border-[var(--primary)]/40 transition-colors"
-              >
-                <div className="flex items-start justify-between">
-                  <div>
-                    <span className="font-extrabold text-sm text-white font-mono mr-2">{t.room}</span>
-                    <span className="text-xs font-semibold text-[var(--primary)]">{t.category}</span>
+          <div className="space-y-3">
+            {tickets.map((t) => {
+              const isOpen = t.status === "Open";
+              const isInProgress = t.status === "In progress";
+              const isFixed = t.status === "Fixed";
+
+              return (
+                <div
+                  key={t.id}
+                  className="p-3.5 rounded-xl border border-[#182638] bg-[#09101a] flex items-center justify-between gap-4"
+                >
+                  {/* Left: Room Badge + Title & details */}
+                  <div className="flex items-center gap-3 min-w-0">
+                    <div className="px-3 py-1.5 rounded-xl bg-[#0e1d2c] border border-[#1c3650] text-cyan-300 font-mono font-bold text-xs">
+                      {t.room}
+                    </div>
+
+                    <div className="min-w-0">
+                      <div className="text-xs font-bold text-white truncate">
+                        {t.category}
+                      </div>
+                      <div className="text-[11px] text-slate-500 truncate">
+                        {t.details}
+                      </div>
+                    </div>
                   </div>
-                  <span className={`text-[10px] font-bold px-2 py-0.5 rounded-full uppercase ${
-                    t.status === "RESOLVED"
-                      ? "bg-[var(--success)]/20 text-[var(--success)] border border-[var(--success)]/40"
-                      : t.status === "IN_PROGRESS"
-                        ? "bg-[var(--primary)]/20 text-[var(--primary)] border border-[var(--primary)]/40"
-                        : "bg-[var(--warning)]/20 text-[var(--warning)] border border-[var(--warning)]/40"
-                  }`}>
-                    {t.status.replace(/_/g, " ")}
-                  </span>
-                </div>
 
-                <p className="text-xs text-slate-300">{t.description}</p>
+                  {/* Right Status & Next Action Button */}
+                  <div className="flex items-center gap-2.5 flex-shrink-0">
+                    {/* Status Text Badge */}
+                    <span
+                      className={`text-xs font-semibold ${
+                        isOpen
+                          ? "text-rose-400"
+                          : isInProgress
+                            ? "text-amber-400"
+                            : "text-emerald-400"
+                      }`}
+                    >
+                      {t.status}
+                    </span>
 
-                <div className="flex items-center justify-between text-[11px] text-[var(--muted-foreground)] pt-1 border-t border-[var(--border)]">
-                  <span>Priority: <strong className={t.priority === "HIGH" ? "text-rose-400" : "text-amber-400"}>{t.priority}</strong></span>
-                  <span>Assigned: <strong className="text-slate-200">{t.assigned_to || "Unassigned"}</strong></span>
+                    {/* Next Progression Button */}
+                    {!isFixed && (
+                      <button
+                        onClick={() => handleNextStatus(t.id)}
+                        className="px-2.5 py-1 rounded-lg bg-[#142232] hover:bg-[#1c3046] border border-[#223952] text-[11px] font-semibold text-slate-200 transition-all cursor-pointer"
+                      >
+                        {isOpen ? "Next" : "Mark Fixed"}
+                      </button>
+                    )}
+                  </div>
                 </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </div>
+
+      {/* Floating Bottom Toast Alert matching user screenshot */}
+      {toastMessage && (
+        <div className="fixed bottom-6 right-8 z-50 flex items-center gap-2.5 px-4 py-2.5 rounded-xl bg-black/90 border border-slate-700 text-white text-xs font-medium shadow-2xl animate-in slide-in-from-bottom-3 duration-200">
+          <div className="w-4 h-4 rounded-full bg-white text-black flex items-center justify-center">
+            <Check size={11} strokeWidth={3} />
+          </div>
+          <span>{toastMessage}</span>
+        </div>
+      )}
     </div>
   );
 };
