@@ -1,0 +1,7352 @@
+{
+  "MON_1_A405": {
+    "room": "A405",
+    "subject": "CCTL(B1)A405 / BDTL(B2)A625",
+    "section": "5CSE01",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_1_A625": {
+    "room": "A625",
+    "subject": "CCTL(B1)A405 / BDTL(B2)A625",
+    "section": "5CSE01",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A203": {
+    "room": "A203",
+    "subject": "ML(A203)",
+    "section": "5CSE01",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A203": {
+    "room": "A203",
+    "subject": "FLAT(A203)",
+    "section": "5CSE01",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A209": {
+    "room": "A209",
+    "subject": "BDT(A209)",
+    "section": "5CSE01",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A202": {
+    "room": "A202",
+    "subject": "BDT",
+    "section": "5CSE01",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A202": {
+    "room": "A202",
+    "subject": "FLAT",
+    "section": "5CSE01",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A202": {
+    "room": "A202",
+    "subject": "PEHV 1",
+    "section": "5CSE01",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A525": {
+    "room": "A525",
+    "subject": "CCTL(B2)A525 / BDTL(B1)A505",
+    "section": "5CSE01",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_6_A505": {
+    "room": "A505",
+    "subject": "CCTL(B2)A525 / BDTL(B1)A505",
+    "section": "5CSE01",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A202": {
+    "room": "A202",
+    "subject": "FLAT",
+    "section": "5CSE01",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A202": {
+    "room": "A202",
+    "subject": "BDT",
+    "section": "5CSE01",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A202": {
+    "room": "A202",
+    "subject": "DM",
+    "section": "5CSE01",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A202": {
+    "room": "A202",
+    "subject": "PE-2",
+    "section": "5CSE01",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A202": {
+    "room": "A202",
+    "subject": "PE-3",
+    "section": "5CSE01",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A202": {
+    "room": "A202",
+    "subject": "CCT",
+    "section": "5CSE01",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A202": {
+    "room": "A202",
+    "subject": "PE-3",
+    "section": "5CSE01",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A202": {
+    "room": "A202",
+    "subject": "PE-2",
+    "section": "5CSE01",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A222": {
+    "room": "A222",
+    "subject": "MLL B1/B2 (A222)",
+    "section": "5CSE01",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A202": {
+    "room": "A202",
+    "subject": "DM",
+    "section": "5CSE01",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A202": {
+    "room": "A202",
+    "subject": "ML",
+    "section": "5CSE01",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A202": {
+    "room": "A202",
+    "subject": "DM",
+    "section": "5CSE01",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A202": {
+    "room": "A202",
+    "subject": "PE-2",
+    "section": "5CSE01",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A202": {
+    "room": "A202",
+    "subject": "PEHV 2",
+    "section": "5CSE01",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_6_A202": {
+    "room": "A202",
+    "subject": "PE-3",
+    "section": "5CSE01",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_7_A202": {
+    "room": "A202",
+    "subject": "CCT",
+    "section": "5CSE01",
+    "day": "FRI",
+    "period": 7
+  },
+  "MON_1_A203": {
+    "room": "A203",
+    "subject": "DM",
+    "section": "5CSE02",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A203": {
+    "room": "A203",
+    "subject": "FLAT",
+    "section": "5CSE02",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A525": {
+    "room": "A525",
+    "subject": "CCTL(B2)A525 / BDTL(B1)A505",
+    "section": "5CSE02",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_3_A505": {
+    "room": "A505",
+    "subject": "CCTL(B2)A525 / BDTL(B1)A505",
+    "section": "5CSE02",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A203": {
+    "room": "A203",
+    "subject": "CCT",
+    "section": "5CSE02",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A203": {
+    "room": "A203",
+    "subject": "ML",
+    "section": "5CSE02",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A203": {
+    "room": "A203",
+    "subject": "CCT",
+    "section": "5CSE02",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A203": {
+    "room": "A203",
+    "subject": "PEHV 2",
+    "section": "5CSE02",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A203": {
+    "room": "A203",
+    "subject": "DM",
+    "section": "5CSE02",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A203": {
+    "room": "A203",
+    "subject": "BDT",
+    "section": "5CSE02",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2(A222)",
+    "section": "5CSE02",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A203": {
+    "room": "A203",
+    "subject": "BDT",
+    "section": "5CSE02",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A203": {
+    "room": "A203",
+    "subject": "PE-2",
+    "section": "5CSE02",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A203": {
+    "room": "A203",
+    "subject": "PE-3",
+    "section": "5CSE02",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A203": {
+    "room": "A203",
+    "subject": "FLAT",
+    "section": "5CSE02",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A203": {
+    "room": "A203",
+    "subject": "PE-3",
+    "section": "5CSE02",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A203": {
+    "room": "A203",
+    "subject": "PE-2",
+    "section": "5CSE02",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A203": {
+    "room": "A203",
+    "subject": "PEHV 1",
+    "section": "5CSE02",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A405": {
+    "room": "A405",
+    "subject": "CCTL(B1) A405/ BDTL(B2)A625",
+    "section": "5CSE02",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_6_A625": {
+    "room": "A625",
+    "subject": "CCTL(B1) A405/ BDTL(B2)A625",
+    "section": "5CSE02",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A203": {
+    "room": "A203",
+    "subject": "FLAT",
+    "section": "5CSE02",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A203": {
+    "room": "A203",
+    "subject": "PE-2",
+    "section": "5CSE02",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A203": {
+    "room": "A203",
+    "subject": "DM",
+    "section": "5CSE02",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A203": {
+    "room": "A203",
+    "subject": "BDT",
+    "section": "5CSE02",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A203": {
+    "room": "A203",
+    "subject": "PE-3",
+    "section": "5CSE02",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_7_A203": {
+    "room": "A203",
+    "subject": "ML",
+    "section": "5CSE02",
+    "day": "FRI",
+    "period": 7
+  },
+  "MON_1_A209": {
+    "room": "A209",
+    "subject": "PEHV 1",
+    "section": "5CSE03",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A209": {
+    "room": "A209",
+    "subject": "PE-3",
+    "section": "5CSE03",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A209": {
+    "room": "A209",
+    "subject": "PE-2",
+    "section": "5CSE03",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2 (A222)",
+    "section": "5CSE03",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A209": {
+    "room": "A209",
+    "subject": "PEHV 2",
+    "section": "5CSE03",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A209": {
+    "room": "A209",
+    "subject": "BDT",
+    "section": "5CSE03",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A209": {
+    "room": "A209",
+    "subject": "FLAT",
+    "section": "5CSE03",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A209": {
+    "room": "A209",
+    "subject": "ML",
+    "section": "5CSE03",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A209": {
+    "room": "A209",
+    "subject": "PE-2",
+    "section": "5CSE03",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A209": {
+    "room": "A209",
+    "subject": "PE-3",
+    "section": "5CSE03",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A405": {
+    "room": "A405",
+    "subject": "CCTL (B1)A405/BDTL(B2)A625",
+    "section": "5CSE03",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_3_A625": {
+    "room": "A625",
+    "subject": "CCTL (B1)A405/BDTL(B2)A625",
+    "section": "5CSE03",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A209": {
+    "room": "A209",
+    "subject": "BDT",
+    "section": "5CSE03",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A209": {
+    "room": "A209",
+    "subject": "DM",
+    "section": "5CSE03",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A209": {
+    "room": "A209",
+    "subject": "ML",
+    "section": "5CSE03",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A209": {
+    "room": "A209",
+    "subject": "BDT",
+    "section": "5CSE03",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A209": {
+    "room": "A209",
+    "subject": "CCT",
+    "section": "5CSE03",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A209": {
+    "room": "A209",
+    "subject": "DM",
+    "section": "5CSE03",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A209": {
+    "room": "A209",
+    "subject": "PE-3",
+    "section": "5CSE03",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A209": {
+    "room": "A209",
+    "subject": "FLAT",
+    "section": "5CSE03",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A525": {
+    "room": "A525",
+    "subject": "CCTL(B2)A525 /BDTL(B1)A505",
+    "section": "5CSE03",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_1_A505": {
+    "room": "A505",
+    "subject": "CCTL(B2)A525 /BDTL(B1)A505",
+    "section": "5CSE03",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A209": {
+    "room": "A209",
+    "subject": "FLAT",
+    "section": "5CSE03",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A209": {
+    "room": "A209",
+    "subject": "CCT",
+    "section": "5CSE03",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A209": {
+    "room": "A209",
+    "subject": "PE-2",
+    "section": "5CSE04",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_7_A209": {
+    "room": "A209",
+    "subject": "DM",
+    "section": "5CSE03",
+    "day": "FRI",
+    "period": 7
+  },
+  "MON_1_A202": {
+    "room": "A202",
+    "subject": "PEHV 2",
+    "section": "5CSE04",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A202": {
+    "room": "A202",
+    "subject": "PE-3",
+    "section": "5CSE04",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A202": {
+    "room": "A202",
+    "subject": "PE-2",
+    "section": "5CSE04",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A202": {
+    "room": "A202",
+    "subject": "CCT",
+    "section": "5CSE04",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A202": {
+    "room": "A202",
+    "subject": "BDT",
+    "section": "5CSE04",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A405": {
+    "room": "A405",
+    "subject": "CCTL(B1)A405/ BDTL(B2)A625",
+    "section": "5CSE04",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_1_A625": {
+    "room": "A625",
+    "subject": "CCTL(B1)A405/ BDTL(B2)A625",
+    "section": "5CSE04",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A210": {
+    "room": "A210",
+    "subject": "CCT(A210)",
+    "section": "5CSE04",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A210": {
+    "room": "A210",
+    "subject": "ML(A210)",
+    "section": "5CSE04",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A202": {
+    "room": "A202",
+    "subject": "DM(A202)",
+    "section": "5CSE04",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A202": {
+    "room": "A202",
+    "subject": "FLAT(A202`)",
+    "section": "5CSE04",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A203": {
+    "room": "A203",
+    "subject": "PE-2",
+    "section": "5CSE04",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A203": {
+    "room": "A203",
+    "subject": "PE-3",
+    "section": "5CSE04",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A209": {
+    "room": "A209",
+    "subject": "DM(A209)",
+    "section": "5CSE04",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A209": {
+    "room": "A209",
+    "subject": "FLAT(A209)",
+    "section": "5CSE04",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A525": {
+    "room": "A525",
+    "subject": "CCTL(B2)A525/ BDTL(B1)A505",
+    "section": "5CSE04",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_6_A505": {
+    "room": "A505",
+    "subject": "CCTL(B2)A525/ BDTL(B1)A505",
+    "section": "5CSE04",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A210": {
+    "room": "A210",
+    "subject": "PEHV 1(A210)",
+    "section": "5CSE04",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A210": {
+    "room": "A210",
+    "subject": "BDT",
+    "section": "5CSE04",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A210": {
+    "room": "A210",
+    "subject": "ML",
+    "section": "5CSE04",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A210": {
+    "room": "A210",
+    "subject": "PE-3",
+    "section": "5CSE04",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A210": {
+    "room": "A210",
+    "subject": "DM",
+    "section": "5CSE04",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A209": {
+    "room": "A209",
+    "subject": "FLAT(A209)",
+    "section": "5CSE04",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A209": {
+    "room": "A209",
+    "subject": "BDT(A209)",
+    "section": "5CSE04",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2 (A222)",
+    "section": "5CSE04",
+    "day": "FRI",
+    "period": 3
+  },
+  "TUE_1_A210": {
+    "room": "A210",
+    "subject": "PE-3",
+    "section": "5CSE05",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A210": {
+    "room": "A210",
+    "subject": "PE-2",
+    "section": "5CSE05",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A525": {
+    "room": "A525",
+    "subject": "CCTL(B2)A525 / BDTL(B1)A505",
+    "section": "5CSE05",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_3_A505": {
+    "room": "A505",
+    "subject": "CCTL(B2)A525 / BDTL(B1)A505",
+    "section": "5CSE05",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A210": {
+    "room": "A210",
+    "subject": "ML",
+    "section": "5CSE05",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A210": {
+    "room": "A210",
+    "subject": "BDT",
+    "section": "5CSE05",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A210": {
+    "room": "A210",
+    "subject": "FLAT",
+    "section": "5CSE05",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A210": {
+    "room": "A210",
+    "subject": "ML",
+    "section": "5CSE05",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A210": {
+    "room": "A210",
+    "subject": "PE-3",
+    "section": "5CSE05",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A210": {
+    "room": "A210",
+    "subject": "DM",
+    "section": "5CSE05",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A210": {
+    "room": "A210",
+    "subject": "PE-2",
+    "section": "5CSE05",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A210": {
+    "room": "A210",
+    "subject": "PEHV 1",
+    "section": "5CSE05",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2 (A222)",
+    "section": "5CSE05",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A202": {
+    "room": "A202",
+    "subject": "PEHV 2(A202)",
+    "section": "5CSE05",
+    "day": "THUR",
+    "period": 3
+  },
+  "FRI_1_A210": {
+    "room": "A210",
+    "subject": "DM",
+    "section": "5CSE05",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A210": {
+    "room": "A210",
+    "subject": "CCT",
+    "section": "5CSE05",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A210": {
+    "room": "A210",
+    "subject": "FLAT",
+    "section": "5CSE05",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A210": {
+    "room": "A210",
+    "subject": "BDT",
+    "section": "5CSE05",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A405": {
+    "room": "A405",
+    "subject": "CCTL (B1)A405 / BDTL(B2)A625",
+    "section": "5CSE05",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_6_A625": {
+    "room": "A625",
+    "subject": "CCTL (B1)A405 / BDTL(B2)A625",
+    "section": "5CSE05",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A212": {
+    "room": "A212",
+    "subject": "BDT",
+    "section": "5CSE06",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A212": {
+    "room": "A212",
+    "subject": "ML",
+    "section": "5CSE06",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2 (A222)",
+    "section": "5CSE06",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A212": {
+    "room": "A212",
+    "subject": "PE-3",
+    "section": "5CSE10",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A212": {
+    "room": "A212",
+    "subject": "PE-3",
+    "section": "5CSE06",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A212": {
+    "room": "A212",
+    "subject": "PE-3",
+    "section": "5CSE06",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A212": {
+    "room": "A212",
+    "subject": "PE-2",
+    "section": "5CSE06",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A212": {
+    "room": "A212",
+    "subject": "FLAT",
+    "section": "5CSE06",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A212": {
+    "room": "A212",
+    "subject": "DM",
+    "section": "5CSE06",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A212": {
+    "room": "A212",
+    "subject": "PEHV 2",
+    "section": "5CSE06",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A405": {
+    "room": "A405",
+    "subject": "CCTL(B1)(A405) / BDTL(B2)(A625)",
+    "section": "5CSE06",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_1_A625": {
+    "room": "A625",
+    "subject": "CCTL (B2)A625 / BDTL(B1)A505",
+    "section": "5CSE15",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A219": {
+    "room": "A219",
+    "subject": "PE-3",
+    "section": "5CSE06",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A219": {
+    "room": "A219",
+    "subject": "BDT(A219)",
+    "section": "5CSE06",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A225": {
+    "room": "A225",
+    "subject": "PE-2(A225)",
+    "section": "5CSE06",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A225": {
+    "room": "A225",
+    "subject": "FLAT(A225)",
+    "section": "5CSE06",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A212": {
+    "room": "A212",
+    "subject": "BDT",
+    "section": "5CSE06",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A212": {
+    "room": "A212",
+    "subject": "CCT",
+    "section": "5CSE06",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A212": {
+    "room": "A212",
+    "subject": "FLAT",
+    "section": "5CSE06",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A212": {
+    "room": "A212",
+    "subject": "DM",
+    "section": "5CSE06",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A525": {
+    "room": "A525",
+    "subject": "CCTL(B2)A525 / BDTL(B1)A505",
+    "section": "5CSE06",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_6_A505": {
+    "room": "A505",
+    "subject": "CCTL(B2)A525 / BDTL(B1)A505",
+    "section": "5CSE06",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A212": {
+    "room": "A212",
+    "subject": "PEHV 1",
+    "section": "5CSE06",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A212": {
+    "room": "A212",
+    "subject": "DM",
+    "section": "5CSE06",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A212": {
+    "room": "A212",
+    "subject": "CCT",
+    "section": "5CSE06",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A212": {
+    "room": "A212",
+    "subject": "ML",
+    "section": "5CSE06",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A219": {
+    "room": "A219",
+    "subject": "CCT",
+    "section": "5CSE07",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A219": {
+    "room": "A219",
+    "subject": "DM",
+    "section": "5CSE07",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A219": {
+    "room": "A219",
+    "subject": "PE-2",
+    "section": "5CSE07",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A219": {
+    "room": "A219",
+    "subject": "PE-3",
+    "section": "5CSE07",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A405": {
+    "room": "A405",
+    "subject": "CCTL(B1)A405 / BDTL(B2)A625",
+    "section": "5CSE07",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_6_A625": {
+    "room": "A625",
+    "subject": "CCTL(B1)A405 / BDTL(B2)A625",
+    "section": "5CSE07",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A219": {
+    "room": "A219",
+    "subject": "PEHV 1",
+    "section": "5CSE07",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A219": {
+    "room": "A219",
+    "subject": "PE-2",
+    "section": "5CSE07",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A219": {
+    "room": "A219",
+    "subject": "FLAT",
+    "section": "5CSE07",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A219": {
+    "room": "A219",
+    "subject": "PE-3",
+    "section": "5CSE07",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A219": {
+    "room": "A219",
+    "subject": "BDT",
+    "section": "5CSE07",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A219": {
+    "room": "A219",
+    "subject": "ML",
+    "section": "5CSE07",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A219": {
+    "room": "A219",
+    "subject": "DM",
+    "section": "5CSE07",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A525": {
+    "room": "A525",
+    "subject": "CCTL(B2)A525 / BDTL(B1)A505",
+    "section": "5CSE07",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_3_A505": {
+    "room": "A505",
+    "subject": "CCTL(B2)A525 / BDTL(B1)A505",
+    "section": "5CSE07",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A219": {
+    "room": "A219",
+    "subject": "BDT",
+    "section": "5CSE07",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A219": {
+    "room": "A219",
+    "subject": "CCT",
+    "section": "5CSE07",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A219": {
+    "room": "A219",
+    "subject": "PE-3",
+    "section": "5CSE07",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A219": {
+    "room": "A219",
+    "subject": "PE-2",
+    "section": "5CSE07",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A219": {
+    "room": "A219",
+    "subject": "FLAT",
+    "section": "5CSE07",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A219": {
+    "room": "A219",
+    "subject": "ML",
+    "section": "5CSE07",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A219": {
+    "room": "A219",
+    "subject": "DM",
+    "section": "5CSE07",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2 (A222)",
+    "section": "5CSE07",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A219": {
+    "room": "A219",
+    "subject": "PEHV 2",
+    "section": "5CSE07",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_6_A219": {
+    "room": "A219",
+    "subject": "FLAT",
+    "section": "5CSE07",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A225": {
+    "room": "A225",
+    "subject": "PEHV 2",
+    "section": "5CSE08",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A225": {
+    "room": "A225",
+    "subject": "PE-2",
+    "section": "5CSE08",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A225": {
+    "room": "A225",
+    "subject": "PE-3",
+    "section": "5CSE08",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A225": {
+    "room": "A225",
+    "subject": "ML",
+    "section": "5CSE08",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A225": {
+    "room": "A225",
+    "subject": "FLAT",
+    "section": "5CSE08",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A525": {
+    "room": "A525",
+    "subject": "CCTL (B2) A525/ BDTL(B1)A505",
+    "section": "5CSE08",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_1_A505": {
+    "room": "A505",
+    "subject": "CCTL (B2) A525/ BDTL(B1)A505",
+    "section": "5CSE08",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A225": {
+    "room": "A225",
+    "subject": "PE-2",
+    "section": "5CSE08",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A225": {
+    "room": "A225",
+    "subject": "BDT",
+    "section": "5CSE08",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A225": {
+    "room": "A225",
+    "subject": "PE-3",
+    "section": "5CSE08",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A225": {
+    "room": "A225",
+    "subject": "DM",
+    "section": "5CSE08",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A225": {
+    "room": "A225",
+    "subject": "BDT",
+    "section": "5CSE08",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A225": {
+    "room": "A225",
+    "subject": "CCT",
+    "section": "5CSE08",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A225": {
+    "room": "A225",
+    "subject": "PEHV 1",
+    "section": "5CSE08",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2 (A222)",
+    "section": "5CSE08",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A225": {
+    "room": "A225",
+    "subject": "PE-3",
+    "section": "5CSE08",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A225": {
+    "room": "A225",
+    "subject": "PE-2",
+    "section": "5CSE08",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A225": {
+    "room": "A225",
+    "subject": "CCT",
+    "section": "5CSE08",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A225": {
+    "room": "A225",
+    "subject": "ML",
+    "section": "5CSE08",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A225": {
+    "room": "A225",
+    "subject": "DM",
+    "section": "5CSE08",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A225": {
+    "room": "A225",
+    "subject": "FLAT",
+    "section": "5CSE08",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A225": {
+    "room": "A225",
+    "subject": "FLAT",
+    "section": "5CSE08",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A225": {
+    "room": "A225",
+    "subject": "BDT",
+    "section": "5CSE08",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A405": {
+    "room": "A405",
+    "subject": "CCTL(B1)A405 / BDTL (B2)A625",
+    "section": "5CSE08",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_3_A625": {
+    "room": "A625",
+    "subject": "CCTL(B1)A405 / BDTL (B2)A625",
+    "section": "5CSE08",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_6_A225": {
+    "room": "A225",
+    "subject": "DM",
+    "section": "5CSE08",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A301": {
+    "room": "A301",
+    "subject": "FLAT",
+    "section": "5CSE09",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A301": {
+    "room": "A301",
+    "subject": "DM",
+    "section": "5CSE09",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A301": {
+    "room": "A301",
+    "subject": "BDT",
+    "section": "5CSE09",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A301": {
+    "room": "A301",
+    "subject": "CCT",
+    "section": "5CSE09",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A301": {
+    "room": "A301",
+    "subject": "PE-3",
+    "section": "5CSE09",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A301": {
+    "room": "A301",
+    "subject": "PEHV 1",
+    "section": "5CSE09",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A225": {
+    "room": "A225",
+    "subject": "CCT(A225)",
+    "section": "5CSE09",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A225": {
+    "room": "A225",
+    "subject": "PE-2",
+    "section": "5CSE09",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2 (A222)",
+    "section": "5CSE09",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A301": {
+    "room": "A301",
+    "subject": "FLAT(A301)",
+    "section": "5CSE09",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A212": {
+    "room": "A212",
+    "subject": "PE-3",
+    "section": "5CSE09",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A212": {
+    "room": "A212",
+    "subject": "FLAT",
+    "section": "5CSE09",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A212": {
+    "room": "A212",
+    "subject": "ML",
+    "section": "5CSE09",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A212": {
+    "room": "A212",
+    "subject": "DM",
+    "section": "5CSE09",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A212": {
+    "room": "A212",
+    "subject": "PE-2",
+    "section": "5CSE09",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A405": {
+    "room": "A405",
+    "subject": "CCTL (B1) A405/ BDTL(B2)A625",
+    "section": "5CSE09",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_1_A625": {
+    "room": "A625",
+    "subject": "CCTL (B1) A405/ BDTL(B2)A625",
+    "section": "5CSE09",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A301": {
+    "room": "A301",
+    "subject": "BDT(A301)",
+    "section": "5CSE09",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A301": {
+    "room": "A301",
+    "subject": "DM(A301)",
+    "section": "5CSE09",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A212": {
+    "room": "A212",
+    "subject": "PEHV 2(A212)",
+    "section": "5CSE09",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A219": {
+    "room": "A219",
+    "subject": "PE-2",
+    "section": "5CSE09",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A219": {
+    "room": "A219",
+    "subject": "PE-3",
+    "section": "5CSE09",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A225": {
+    "room": "A225",
+    "subject": "BDT(A225)",
+    "section": "5CSE09",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A225": {
+    "room": "A225",
+    "subject": "ML(A225)",
+    "section": "5CSE09",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A525": {
+    "room": "A525",
+    "subject": "CCTL (B2) A525/ BDTL(B1)A505",
+    "section": "5CSE09",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_6_A505": {
+    "room": "A505",
+    "subject": "CCTL (B2) A525/ BDTL(B1)A505",
+    "section": "5CSE09",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A222": {
+    "room": "A222",
+    "subject": "MLL B1/B2 (A222)",
+    "section": "5CSE10",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A212": {
+    "room": "A212",
+    "subject": "CCT(A212)",
+    "section": "5CSE10",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A212": {
+    "room": "A212",
+    "subject": "DM(A212)",
+    "section": "5CSE10",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_7_A219": {
+    "room": "A219",
+    "subject": "ML(A219)",
+    "section": "5CSE10",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A301": {
+    "room": "A301",
+    "subject": "FLAT",
+    "section": "5CSE10",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A301": {
+    "room": "A301",
+    "subject": "PE-2",
+    "section": "5CSE10",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A301": {
+    "room": "A301",
+    "subject": "BDT",
+    "section": "5CSE10",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A301": {
+    "room": "A301",
+    "subject": "DM",
+    "section": "5CSE10",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A405": {
+    "room": "A405",
+    "subject": "CCTL (B1)A405 / BDTL (B2)A625",
+    "section": "5CSE10",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_6_A625": {
+    "room": "A625",
+    "subject": "CCTL (B1)A405 / BDTL (B2)A625",
+    "section": "5CSE10",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A301": {
+    "room": "A301",
+    "subject": "PE-3",
+    "section": "5CSE10",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A301": {
+    "room": "A301",
+    "subject": "DM",
+    "section": "5CSE10",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A301": {
+    "room": "A301",
+    "subject": "PEHV 2",
+    "section": "5CSE10",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A301": {
+    "room": "A301",
+    "subject": "PE-2",
+    "section": "5CSE10",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A301": {
+    "room": "A301",
+    "subject": "FLAT",
+    "section": "5CSE10",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A301": {
+    "room": "A301",
+    "subject": "CCT",
+    "section": "5CSE10",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A301": {
+    "room": "A301",
+    "subject": "BDT",
+    "section": "5CSE10",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A524": {
+    "room": "A524",
+    "subject": "CCTL (B2)A524 / BDTL (B1)A505",
+    "section": "5CSE10",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_3_A505": {
+    "room": "A505",
+    "subject": "CCTL (B2)A524 / BDTL (B1)A505",
+    "section": "5CSE10",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A301": {
+    "room": "A301",
+    "subject": "FLAT",
+    "section": "5CSE10",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A301": {
+    "room": "A301",
+    "subject": "PE-2",
+    "section": "5CSE10",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A301": {
+    "room": "A301",
+    "subject": "PE-3",
+    "section": "5CSE10",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A301": {
+    "room": "A301",
+    "subject": "PEHV 1",
+    "section": "5CSE10",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_6_A301": {
+    "room": "A301",
+    "subject": "BDT",
+    "section": "5CSE10",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_7_A301": {
+    "room": "A301",
+    "subject": "ML",
+    "section": "5CSE10",
+    "day": "FRI",
+    "period": 7
+  },
+  "MON_1_A303": {
+    "room": "A303",
+    "subject": "PE-2",
+    "section": "5CSE11",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A303": {
+    "room": "A303",
+    "subject": "PE-3",
+    "section": "5CSE11",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A303": {
+    "room": "A303",
+    "subject": "BDT",
+    "section": "5CSE11",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A303": {
+    "room": "A303",
+    "subject": "DM",
+    "section": "5CSE11",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A525": {
+    "room": "A525",
+    "subject": "CCTL (B2)A525 / BDTL (B1)A505",
+    "section": "5CSE11",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_6_A505": {
+    "room": "A505",
+    "subject": "CCTL (B2)A525 / BDTL (B1)A505",
+    "section": "5CSE11",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A303": {
+    "room": "A303",
+    "subject": "CCT",
+    "section": "5CSE11",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A303": {
+    "room": "A303",
+    "subject": "DM",
+    "section": "5CSE11",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A303": {
+    "room": "A303",
+    "subject": "PE-3",
+    "section": "5CSE11",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A303": {
+    "room": "A303",
+    "subject": "FLAT",
+    "section": "5CSE11",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A303": {
+    "room": "A303",
+    "subject": "ML",
+    "section": "5CSE11",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A303": {
+    "room": "A303",
+    "subject": "BDT",
+    "section": "5CSE11",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A303": {
+    "room": "A303",
+    "subject": "BDT",
+    "section": "5CSE11",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A303": {
+    "room": "A303",
+    "subject": "FLAT",
+    "section": "5CSE11",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2 (A222)",
+    "section": "5CSE11",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A303": {
+    "room": "A303",
+    "subject": "PEHV 1",
+    "section": "5CSE11",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A303": {
+    "room": "A303",
+    "subject": "PEHV 2",
+    "section": "5CSE11",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A303": {
+    "room": "A303",
+    "subject": "PE-3",
+    "section": "5CSE11",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A303": {
+    "room": "A303",
+    "subject": "FLAT",
+    "section": "5CSE11",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A303": {
+    "room": "A303",
+    "subject": "PE-2",
+    "section": "5CSE11",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A303": {
+    "room": "A303",
+    "subject": "CCT",
+    "section": "5CSE11",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A405": {
+    "room": "A405",
+    "subject": "CCTL(B1)A405/BDTL(B2)A625",
+    "section": "5CSE11",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_1_A625": {
+    "room": "A625",
+    "subject": "CCTL(B1)A405/BDTL(B2)A625",
+    "section": "5CSE11",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A304": {
+    "room": "A304",
+    "subject": "ML(A304)",
+    "section": "5CSE11",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A304": {
+    "room": "A304",
+    "subject": "DM(A304)",
+    "section": "5CSE11",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A304": {
+    "room": "A304",
+    "subject": "PE-2",
+    "section": "5CSE12",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A304": {
+    "room": "A304",
+    "subject": "PE-2",
+    "section": "5CSE12",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A304": {
+    "room": "A304",
+    "subject": "PE-3",
+    "section": "5CSE12",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A304": {
+    "room": "A304",
+    "subject": "ML",
+    "section": "5CSE12",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A304": {
+    "room": "A304",
+    "subject": "FLAT",
+    "section": "5CSE12",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A304": {
+    "room": "A304",
+    "subject": "DM",
+    "section": "5CSE12",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2 (A222)",
+    "section": "5CSE12",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A304": {
+    "room": "A304",
+    "subject": "PE-3",
+    "section": "5CSE12",
+    "day": "TUE",
+    "period": 3
+  },
+  "WED_1_A304": {
+    "room": "A304",
+    "subject": "PEHV 1",
+    "section": "5CSE12",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A304": {
+    "room": "A304",
+    "subject": "DM",
+    "section": "5CSE12",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A304": {
+    "room": "A304",
+    "subject": "BDT",
+    "section": "5CSE12",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A405": {
+    "room": "A405",
+    "subject": "CCTL(B1)A405/BDTL(B2)A625",
+    "section": "5CSE12",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_6_A625": {
+    "room": "A625",
+    "subject": "CCTL(B1)A405/BDTL(B2)A625",
+    "section": "5CSE12",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A304": {
+    "room": "A304",
+    "subject": "ML",
+    "section": "5CSE12",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A304": {
+    "room": "A304",
+    "subject": "FLAT",
+    "section": "5CSE12",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A304": {
+    "room": "A304",
+    "subject": "PE-3",
+    "section": "5CSE12",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A304": {
+    "room": "A304",
+    "subject": "PE-2",
+    "section": "5CSE12",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A304": {
+    "room": "A304",
+    "subject": "PEHV 2",
+    "section": "5CSE12",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A304": {
+    "room": "A304",
+    "subject": "BDT",
+    "section": "5CSE12",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A304": {
+    "room": "A304",
+    "subject": "FLAT",
+    "section": "5CSE12",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A525": {
+    "room": "A525",
+    "subject": "CCTL(B2)A525/BDTL(B1)A505",
+    "section": "5CSE12",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_3_A505": {
+    "room": "A505",
+    "subject": "CCTL(B2)A525/BDTL(B1)A505",
+    "section": "5CSE12",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_7_A304": {
+    "room": "A304",
+    "subject": "CCT",
+    "section": "5CSE12",
+    "day": "FRI",
+    "period": 7
+  },
+  "MON_1_A525": {
+    "room": "A525",
+    "subject": "CCTL(B2)A525/BDTL(B1)A505",
+    "section": "5CSE13",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_1_A505": {
+    "room": "A505",
+    "subject": "CCTL(B2)A525/BDTL(B1)A505",
+    "section": "5CSE13",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A308": {
+    "room": "A308",
+    "subject": "BDT",
+    "section": "5CSE13",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A308": {
+    "room": "A308",
+    "subject": "CCT",
+    "section": "5CSE13",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A308": {
+    "room": "A308",
+    "subject": "PE-2",
+    "section": "5CSE14",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A308": {
+    "room": "A308",
+    "subject": "FLAT",
+    "section": "5CSE13",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A308": {
+    "room": "A308",
+    "subject": "FLAT",
+    "section": "5CSE13",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A308": {
+    "room": "A308",
+    "subject": "PE-3",
+    "section": "5CSE13",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A405": {
+    "room": "A405",
+    "subject": "CCTL(B1)A405/BDTL(B2)A625",
+    "section": "5CSE13",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_3_A625": {
+    "room": "A625",
+    "subject": "CCTL(B1)A405/BDTL(B2)A625",
+    "section": "5CSE13",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A308": {
+    "room": "A308",
+    "subject": "CCT",
+    "section": "5CSE13",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A308": {
+    "room": "A308",
+    "subject": "PEHV 1",
+    "section": "5CSE13",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A308": {
+    "room": "A308",
+    "subject": "DM",
+    "section": "5CSE13",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A308": {
+    "room": "A308",
+    "subject": "PE-2",
+    "section": "5CSE13",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A308": {
+    "room": "A308",
+    "subject": "PEHV 2",
+    "section": "5CSE13",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A308": {
+    "room": "A308",
+    "subject": "BDT",
+    "section": "5CSE13",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A308": {
+    "room": "A308",
+    "subject": "ML",
+    "section": "5CSE13",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A308": {
+    "room": "A308",
+    "subject": "DM",
+    "section": "5CSE13",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A308": {
+    "room": "A308",
+    "subject": "PE-2",
+    "section": "5CSE13",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A308": {
+    "room": "A308",
+    "subject": "PE-3",
+    "section": "5CSE13",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2 (A222)",
+    "section": "5CSE13",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A308": {
+    "room": "A308",
+    "subject": "PE-3",
+    "section": "5CSE13",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A308": {
+    "room": "A308",
+    "subject": "BDT",
+    "section": "5CSE13",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A308": {
+    "room": "A308",
+    "subject": "ML",
+    "section": "5CSE13",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A308": {
+    "room": "A308",
+    "subject": "FLAT",
+    "section": "5CSE13",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A308": {
+    "room": "A308",
+    "subject": "DM",
+    "section": "5CSE13",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A308": {
+    "room": "A308",
+    "subject": "DM(308)",
+    "section": "5CSE14",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A308": {
+    "room": "A308",
+    "subject": "FLAT(308)",
+    "section": "5CSE14",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A405": {
+    "room": "A405",
+    "subject": "CCTL(B1)A405 / BDTL(B2)A625",
+    "section": "5CSE14",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_3_A625": {
+    "room": "A625",
+    "subject": "CCTL(B1)A405 / BDTL(B2)A625",
+    "section": "5CSE14",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_7_A303": {
+    "room": "A303",
+    "subject": "BDT(A303)",
+    "section": "5CSE14",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A304": {
+    "room": "A304",
+    "subject": "DM(A304)",
+    "section": "5CSE14",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A304": {
+    "room": "A304",
+    "subject": "PE-3",
+    "section": "5CSE14",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A308": {
+    "room": "A308",
+    "subject": "BDT(A308)",
+    "section": "5CSE14",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A222": {
+    "room": "A222",
+    "subject": "MLLB1/B2 (A222)",
+    "section": "5CSE14",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A310": {
+    "room": "A310",
+    "subject": "ML",
+    "section": "5CSE14",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A310": {
+    "room": "A310",
+    "subject": "PE-2",
+    "section": "5CSE14",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A310": {
+    "room": "A310",
+    "subject": "FLAT",
+    "section": "5CSE14",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A310": {
+    "room": "A310",
+    "subject": "CCT",
+    "section": "5CSE14",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A310": {
+    "room": "A310",
+    "subject": "PEHV 2",
+    "section": "5CSE14",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A525": {
+    "room": "A525",
+    "subject": "CCTL(B2)A525/BDTL(B1)A505",
+    "section": "5CSE14",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_1_A505": {
+    "room": "A505",
+    "subject": "CCTL(B2)A525/BDTL(B1)A505",
+    "section": "5CSE14",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A310": {
+    "room": "A310",
+    "subject": "PE-2",
+    "section": "5CSE14",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A310": {
+    "room": "A310",
+    "subject": "PE-3",
+    "section": "5CSE14",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A308": {
+    "room": "A308",
+    "subject": "BDT(A308)",
+    "section": "5CSE14",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A303": {
+    "room": "A303",
+    "subject": "PE-3",
+    "section": "5CSE14",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A303": {
+    "room": "A303",
+    "subject": "ML",
+    "section": "5CSE14",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A303": {
+    "room": "A303",
+    "subject": "CCT",
+    "section": "5CSE14",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A303": {
+    "room": "A303",
+    "subject": "DM",
+    "section": "5CSE14",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A303": {
+    "room": "A303",
+    "subject": "PEHV 1",
+    "section": "5CSE14",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A310": {
+    "room": "A310",
+    "subject": "PEHV 1",
+    "section": "5CSE15",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A310": {
+    "room": "A310",
+    "subject": "FLAT",
+    "section": "5CSE15",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A310": {
+    "room": "A310",
+    "subject": "PE-3",
+    "section": "5CSE15",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A310": {
+    "room": "A310",
+    "subject": "ML",
+    "section": "5CSE15",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A310": {
+    "room": "A310",
+    "subject": "PE-2",
+    "section": "5CSE15",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A310": {
+    "room": "A310",
+    "subject": "CCT",
+    "section": "5CSE15",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A310": {
+    "room": "A310",
+    "subject": "FLAT",
+    "section": "5CSE15",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A310": {
+    "room": "A310",
+    "subject": "PE-3",
+    "section": "5CSE15",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A310": {
+    "room": "A310",
+    "subject": "DM",
+    "section": "5CSE15",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A505": {
+    "room": "A505",
+    "subject": "CCTL (B2)A625 / BDTL(B1)A505",
+    "section": "5CSE15",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A303": {
+    "room": "A303",
+    "subject": "BDT(A303)",
+    "section": "5CSE15",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A303": {
+    "room": "A303",
+    "subject": "PE-3",
+    "section": "5CSE15",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A304": {
+    "room": "A304",
+    "subject": "DM(A304)",
+    "section": "5CSE15",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A303": {
+    "room": "A303",
+    "subject": "PE-2",
+    "section": "5CSE15",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A310": {
+    "room": "A310",
+    "subject": "ML",
+    "section": "5CSE15",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A310": {
+    "room": "A310",
+    "subject": "DM",
+    "section": "5CSE15",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A405": {
+    "room": "A405",
+    "subject": "CCTL(B1)A405 / BDTL (B2)A625",
+    "section": "5CSE15",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_3_A625": {
+    "room": "A625",
+    "subject": "CCTL(B1)A405 / BDTL (B2)A625",
+    "section": "5CSE15",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A310": {
+    "room": "A310",
+    "subject": "PEHV 2",
+    "section": "5CSE15",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A310": {
+    "room": "A310",
+    "subject": "FLAT",
+    "section": "5CSE15",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A310": {
+    "room": "A310",
+    "subject": "CCT",
+    "section": "5CSE15",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A310": {
+    "room": "A310",
+    "subject": "BDT",
+    "section": "5CSE15",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A310": {
+    "room": "A310",
+    "subject": "PE-2",
+    "section": "5CSE15",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A222": {
+    "room": "A222",
+    "subject": "MLL B1/B2 (A222)",
+    "section": "5CSE15",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A422": {
+    "room": "A422",
+    "subject": "CCTL(B1)321 / BDTL(B2)A422",
+    "section": "5CSE16",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A319": {
+    "room": "A319",
+    "subject": "ML(A319)",
+    "section": "5CSE16",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A319": {
+    "room": "A319",
+    "subject": "DM(A319)",
+    "section": "5CSE16",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A319": {
+    "room": "A319",
+    "subject": "FLAT",
+    "section": "5CSE17",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A325": {
+    "room": "A325",
+    "subject": "CCT(A325)",
+    "section": "5CSE16",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A312": {
+    "room": "A312",
+    "subject": "PE-2",
+    "section": "5CSE16",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A312": {
+    "room": "A312",
+    "subject": "FLAT",
+    "section": "5CSE16",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A312": {
+    "room": "A312",
+    "subject": "BDT",
+    "section": "5CSE16",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A312": {
+    "room": "A312",
+    "subject": "PE-3",
+    "section": "5CSE16",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A408": {
+    "room": "A408",
+    "subject": "CCTL (B2)A408 /BDTL (B1)A410",
+    "section": "5CSE16",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_6_A410": {
+    "room": "A410",
+    "subject": "CCTL (B2)A408 /BDTL (B1)A410",
+    "section": "5CSE16",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A312": {
+    "room": "A312",
+    "subject": "PEHV 2",
+    "section": "5CSE16",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A312": {
+    "room": "A312",
+    "subject": "FLAT",
+    "section": "5CSE16",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A312": {
+    "room": "A312",
+    "subject": "PE-3",
+    "section": "5CSE16",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A312": {
+    "room": "A312",
+    "subject": "BDT",
+    "section": "5CSE16",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A312": {
+    "room": "A312",
+    "subject": "PE-2",
+    "section": "5CSE16",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A312": {
+    "room": "A312",
+    "subject": "PEHV 1",
+    "section": "5CSE16",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A322": {
+    "room": "A322",
+    "subject": "MLL  B1/B2(A322)",
+    "section": "5CSE16",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A312": {
+    "room": "A312",
+    "subject": "DM",
+    "section": "5CSE16",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A312": {
+    "room": "A312",
+    "subject": "ML",
+    "section": "5CSE16",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A312": {
+    "room": "A312",
+    "subject": "CCT",
+    "section": "5CSE16",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A312": {
+    "room": "A312",
+    "subject": "DM",
+    "section": "5CSE16",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A312": {
+    "room": "A312",
+    "subject": "BDT",
+    "section": "5CSE16",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A312": {
+    "room": "A312",
+    "subject": "PE-2",
+    "section": "5CSE16",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A312": {
+    "room": "A312",
+    "subject": "FLAT",
+    "section": "5CSE16",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A319": {
+    "room": "A319",
+    "subject": "PE-2",
+    "section": "5CSE17",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A319": {
+    "room": "A319",
+    "subject": "CCT",
+    "section": "5CSE17",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A408": {
+    "room": "A408",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE17",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_3_A410": {
+    "room": "A410",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE17",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_7_A319": {
+    "room": "A319",
+    "subject": "PEHV 1",
+    "section": "5CSE17",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A319": {
+    "room": "A319",
+    "subject": "BDT",
+    "section": "5CSE17",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A319": {
+    "room": "A319",
+    "subject": "ML",
+    "section": "5CSE17",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A319": {
+    "room": "A319",
+    "subject": "PE-2",
+    "section": "5CSE17",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A319": {
+    "room": "A319",
+    "subject": "FLAT",
+    "section": "5CSE17",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A319": {
+    "room": "A319",
+    "subject": "PE-3",
+    "section": "5CSE17",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2(A322)",
+    "section": "5CSE17",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A319": {
+    "room": "A319",
+    "subject": "PE-3",
+    "section": "5CSE19",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A319": {
+    "room": "A319",
+    "subject": "PE-2",
+    "section": "5CSE19",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A319": {
+    "room": "A319",
+    "subject": "PE-3",
+    "section": "5CSE17",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A319": {
+    "room": "A319",
+    "subject": "DM",
+    "section": "5CSE17",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A319": {
+    "room": "A319",
+    "subject": "FLAT",
+    "section": "5CSE17",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A319": {
+    "room": "A319",
+    "subject": "PEHV 2",
+    "section": "5CSE17",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A321": {
+    "room": "A321",
+    "subject": "CCTL(B1)A321/BDTL (B2)A422",
+    "section": "5CSE17",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_6_A422": {
+    "room": "A422",
+    "subject": "CCTL(B1)A321/BDTL (B2)A422",
+    "section": "5CSE17",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A319": {
+    "room": "A319",
+    "subject": "BDT",
+    "section": "5CSE17",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A319": {
+    "room": "A319",
+    "subject": "ML",
+    "section": "5CSE17",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A319": {
+    "room": "A319",
+    "subject": "PE-3",
+    "section": "5CSE17",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A319": {
+    "room": "A319",
+    "subject": "DM",
+    "section": "5CSE17",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A319": {
+    "room": "A319",
+    "subject": "PE-2",
+    "section": "5CSE17",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_7_A319": {
+    "room": "A319",
+    "subject": "CCT",
+    "section": "5CSE17",
+    "day": "FRI",
+    "period": 7
+  },
+  "MON_1_A325": {
+    "room": "A325",
+    "subject": "PE-2",
+    "section": "5CSE18",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A325": {
+    "room": "A325",
+    "subject": "BDT",
+    "section": "5CSE18",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A325": {
+    "room": "A325",
+    "subject": "ML",
+    "section": "5CSE18",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A325": {
+    "room": "A325",
+    "subject": "DM",
+    "section": "5CSE18",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE18",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A325": {
+    "room": "A325",
+    "subject": "DM",
+    "section": "5CSE18",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A325": {
+    "room": "A325",
+    "subject": "PE-2",
+    "section": "5CSE18",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A325": {
+    "room": "A325",
+    "subject": "PEHV 1",
+    "section": "5CSE18",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A325": {
+    "room": "A325",
+    "subject": "PE-3",
+    "section": "5CSE18",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A325": {
+    "room": "A325",
+    "subject": "FLAT",
+    "section": "5CSE18",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A325": {
+    "room": "A325",
+    "subject": "DM",
+    "section": "5CSE18",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A325": {
+    "room": "A325",
+    "subject": "BDT",
+    "section": "5CSE18",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A321": {
+    "room": "A321",
+    "subject": "CCTL(B1)A321 / BDTL(B2)A422",
+    "section": "5CSE18",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_3_A422": {
+    "room": "A422",
+    "subject": "CCTL(B1)A321 / BDTL(B2)A422",
+    "section": "5CSE18",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A325": {
+    "room": "A325",
+    "subject": "PE-3",
+    "section": "5CSE18",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A325": {
+    "room": "A325",
+    "subject": "FLAT",
+    "section": "5CSE18",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A325": {
+    "room": "A325",
+    "subject": "BDT",
+    "section": "5CSE18",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A325": {
+    "room": "A325",
+    "subject": "CCT",
+    "section": "5CSE18",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A325": {
+    "room": "A325",
+    "subject": "FLAT",
+    "section": "5CSE18",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A325": {
+    "room": "A325",
+    "subject": "ML",
+    "section": "5CSE18",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A325": {
+    "room": "A325",
+    "subject": "PEHV 2",
+    "section": "5CSE18",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A408": {
+    "room": "A408",
+    "subject": "CCTL(B2)A408 / BDTL (B1)A41",
+    "section": "5CSE18",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A325": {
+    "room": "A325",
+    "subject": "PE-3",
+    "section": "5CSE18",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A325": {
+    "room": "A325",
+    "subject": "CCT",
+    "section": "5CSE18",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A325": {
+    "room": "A325",
+    "subject": "PE-2",
+    "section": "5CSE18",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A312": {
+    "room": "A312",
+    "subject": "BDT",
+    "section": "5CSE19",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A312": {
+    "room": "A312",
+    "subject": "PE-3",
+    "section": "5CSE19",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A312": {
+    "room": "A312",
+    "subject": "FLAT",
+    "section": "5CSE19",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A312": {
+    "room": "A312",
+    "subject": "PE-2",
+    "section": "5CSE19",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A312": {
+    "room": "A312",
+    "subject": "DM",
+    "section": "5CSE19",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A321": {
+    "room": "A321",
+    "subject": "CCTL(B1)A321/ BDTL (B2)A422",
+    "section": "5CSE19",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_1_A422": {
+    "room": "A422",
+    "subject": "CCTL(B1)A321/ BDTL (B2)A422",
+    "section": "5CSE19",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A401": {
+    "room": "A401",
+    "subject": "CCT(A401)",
+    "section": "5CSE19",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A401": {
+    "room": "A401",
+    "subject": "ML(A401)",
+    "section": "5CSE19",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A401": {
+    "room": "A401",
+    "subject": "PE-3",
+    "section": "5CSE20",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A312": {
+    "room": "A312",
+    "subject": "PEHV 1(A312)",
+    "section": "5CSE19",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A319": {
+    "room": "A319",
+    "subject": "PEHV 2(A319)",
+    "section": "5CSE19",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_6_A408": {
+    "room": "A408",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE19",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_6_A410": {
+    "room": "A410",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE19",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A401": {
+    "room": "A401",
+    "subject": "FLAT",
+    "section": "5CSE19",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A401": {
+    "room": "A401",
+    "subject": "CCT",
+    "section": "5CSE19",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A401": {
+    "room": "A401",
+    "subject": "BDT",
+    "section": "5CSE19",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A401": {
+    "room": "A401",
+    "subject": "PE-2",
+    "section": "5CSE19",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A401": {
+    "room": "A401",
+    "subject": "DM",
+    "section": "5CSE19",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A401": {
+    "room": "A401",
+    "subject": "ML",
+    "section": "5CSE19",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A325": {
+    "room": "A325",
+    "subject": "BDT(A325)",
+    "section": "5CSE19",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A325": {
+    "room": "A325",
+    "subject": "DM(A325)",
+    "section": "5CSE19",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE19",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_6_A401": {
+    "room": "A401",
+    "subject": "FLAT(A401)",
+    "section": "5CSE19",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A401": {
+    "room": "A401",
+    "subject": "DM",
+    "section": "5CSE20",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A401": {
+    "room": "A401",
+    "subject": "PE-3",
+    "section": "5CSE20",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A401": {
+    "room": "A401",
+    "subject": "BDT",
+    "section": "5CSE20",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A401": {
+    "room": "A401",
+    "subject": "PE-2",
+    "section": "5CSE20",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A401": {
+    "room": "A401",
+    "subject": "CCT",
+    "section": "5CSE20",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A401": {
+    "room": "A401",
+    "subject": "FLAT",
+    "section": "5CSE20",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A401": {
+    "room": "A401",
+    "subject": "ML",
+    "section": "5CSE20",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A401": {
+    "room": "A401",
+    "subject": "DM",
+    "section": "5CSE20",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A408": {
+    "room": "A408",
+    "subject": "CCTL  (B2)A408 / BDTL(B1)A410",
+    "section": "5CSE20",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_3_A410": {
+    "room": "A410",
+    "subject": "CCTL  (B2)A408 / BDTL(B1)A410",
+    "section": "5CSE20",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_7_A401": {
+    "room": "A401",
+    "subject": "CCT",
+    "section": "5CSE20",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A401": {
+    "room": "A401",
+    "subject": "BDT",
+    "section": "5CSE20",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A401": {
+    "room": "A401",
+    "subject": "ML",
+    "section": "5CSE20",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A401": {
+    "room": "A401",
+    "subject": "PE-3",
+    "section": "5CSE20",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A401": {
+    "room": "A401",
+    "subject": "PE-2",
+    "section": "5CSE20",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A401": {
+    "room": "A401",
+    "subject": "DM",
+    "section": "5CSE20",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE20",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A312": {
+    "room": "A312",
+    "subject": "FLAT(A312)",
+    "section": "5CSE20",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A312": {
+    "room": "A312",
+    "subject": "PE-2",
+    "section": "5CSE20",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A319": {
+    "room": "A319",
+    "subject": "PEHV 1(A319)",
+    "section": "5CSE20",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A401": {
+    "room": "A401",
+    "subject": "PEHV 2",
+    "section": "5CSE20",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A401": {
+    "room": "A401",
+    "subject": "FLAT",
+    "section": "5CSE20",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A401": {
+    "room": "A401",
+    "subject": "BDT",
+    "section": "5CSE20",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A321": {
+    "room": "A321",
+    "subject": "CCTL(B1)A321 / BDTL(B2)A422",
+    "section": "5CSE20",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_6_A422": {
+    "room": "A422",
+    "subject": "CCTL(B1)A321 / BDTL(B2)A422",
+    "section": "5CSE20",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A403": {
+    "room": "A403",
+    "subject": "FLAT",
+    "section": "5CSE21",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A403": {
+    "room": "A403",
+    "subject": "PE-2",
+    "section": "5CSE21",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE21",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A403": {
+    "room": "A403",
+    "subject": "ML",
+    "section": "5CSE21",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A403": {
+    "room": "A403",
+    "subject": "BDT",
+    "section": "5CSE21",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A403": {
+    "room": "A403",
+    "subject": "PE-3",
+    "section": "5CSE21",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A403": {
+    "room": "A403",
+    "subject": "BDT",
+    "section": "5CSE21",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A403": {
+    "room": "A403",
+    "subject": "PEHV 2",
+    "section": "5CSE21",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A403": {
+    "room": "A403",
+    "subject": "PE-2",
+    "section": "5CSE21",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A403": {
+    "room": "A403",
+    "subject": "FLAT",
+    "section": "5CSE21",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A321": {
+    "room": "A321",
+    "subject": "CCTL (B1)A321 / BDT (B2)422",
+    "section": "5CSE21",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A404": {
+    "room": "A404",
+    "subject": "DM(A404)",
+    "section": "5CSE21",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A404": {
+    "room": "A404",
+    "subject": "CCT(A404)",
+    "section": "5CSE21",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A404": {
+    "room": "A404",
+    "subject": "PE-3",
+    "section": "5CSE22",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A407": {
+    "room": "A407",
+    "subject": "ML(A407)",
+    "section": "5CSE21",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A403": {
+    "room": "A403",
+    "subject": "PE-3",
+    "section": "5CSE21",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A403": {
+    "room": "A403",
+    "subject": "DM",
+    "section": "5CSE21",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A403": {
+    "room": "A403",
+    "subject": "PEHV 1",
+    "section": "5CSE21",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A408": {
+    "room": "A408",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE21",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_6_A410": {
+    "room": "A410",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE21",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A403": {
+    "room": "A403",
+    "subject": "DM",
+    "section": "5CSE21",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A403": {
+    "room": "A403",
+    "subject": "FLAT",
+    "section": "5CSE21",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A403": {
+    "room": "A403",
+    "subject": "PE-2",
+    "section": "5CSE21",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A403": {
+    "room": "A403",
+    "subject": "CCT",
+    "section": "5CSE21",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A403": {
+    "room": "A403",
+    "subject": "BDT",
+    "section": "5CSE21",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A404": {
+    "room": "A404",
+    "subject": "CCT",
+    "section": "5CSE22",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A404": {
+    "room": "A404",
+    "subject": "PE-2",
+    "section": "5CSE22",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A404": {
+    "room": "A404",
+    "subject": "PEHV 1",
+    "section": "5CSE22",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A321": {
+    "room": "A321",
+    "subject": "CCTL(B1)A321/ BDT (B2)A422",
+    "section": "5CSE22",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_6_A422": {
+    "room": "A422",
+    "subject": "CCTL(B1)A321/ BDT (B2)A422",
+    "section": "5CSE22",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A404": {
+    "room": "A404",
+    "subject": "PE-3",
+    "section": "5CSE22",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A404": {
+    "room": "A404",
+    "subject": "FLAT",
+    "section": "5CSE22",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A404": {
+    "room": "A404",
+    "subject": "DM",
+    "section": "5CSE22",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A404": {
+    "room": "A404",
+    "subject": "ML",
+    "section": "5CSE22",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A404": {
+    "room": "A404",
+    "subject": "PE-2",
+    "section": "5CSE22",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A404": {
+    "room": "A404",
+    "subject": "PEHV 2",
+    "section": "5CSE22",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A404": {
+    "room": "A404",
+    "subject": "ML",
+    "section": "5CSE22",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A404": {
+    "room": "A404",
+    "subject": "FLAT",
+    "section": "5CSE22",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A408": {
+    "room": "A408",
+    "subject": "CCTL (B2)A408 / BDTL (B1)A410",
+    "section": "5CSE22",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_3_A410": {
+    "room": "A410",
+    "subject": "CCTL (B2)A408 / BDTL (B1)A410",
+    "section": "5CSE22",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_7_A404": {
+    "room": "A404",
+    "subject": "BDT",
+    "section": "5CSE22",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A404": {
+    "room": "A404",
+    "subject": "PE-3",
+    "section": "5CSE22",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A404": {
+    "room": "A404",
+    "subject": "CCT",
+    "section": "5CSE22",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A404": {
+    "room": "A404",
+    "subject": "CCTL(B2)A404 / BDTL (B1)A410",
+    "section": "5CSE25",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A404": {
+    "room": "A404",
+    "subject": "DM",
+    "section": "5CSE22",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A404": {
+    "room": "A404",
+    "subject": "FLAT",
+    "section": "5CSE22",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE22",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A404": {
+    "room": "A404",
+    "subject": "PEHV 1",
+    "section": "5CSE24",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A404": {
+    "room": "A404",
+    "subject": "BDT",
+    "section": "5CSE22",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A404": {
+    "room": "A404",
+    "subject": "DM",
+    "section": "5CSE22",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A407": {
+    "room": "A407",
+    "subject": "FLAT",
+    "section": "5CSE23",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A407": {
+    "room": "A407",
+    "subject": "ML",
+    "section": "5CSE23",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A407": {
+    "room": "A407",
+    "subject": "PEHV 2",
+    "section": "5CSE23",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A407": {
+    "room": "A407",
+    "subject": "PE-3",
+    "section": "5CSE23",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A407": {
+    "room": "A407",
+    "subject": "PE-2",
+    "section": "5CSE23",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A408": {
+    "room": "A408",
+    "subject": "CCTL (B2)A408 / BDTL (B1)A410",
+    "section": "5CSE23",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_1_A410": {
+    "room": "A410",
+    "subject": "CCTL (B2)A408 / BDTL (B1)A410",
+    "section": "5CSE23",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A407": {
+    "room": "A407",
+    "subject": "DM",
+    "section": "5CSE23",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A407": {
+    "room": "A407",
+    "subject": "BDT",
+    "section": "5CSE23",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A407": {
+    "room": "A407",
+    "subject": "CCT",
+    "section": "5CSE23",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A407": {
+    "room": "A407",
+    "subject": "ML",
+    "section": "5CSE23",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A407": {
+    "room": "A407",
+    "subject": "PE-2",
+    "section": "5CSE23",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A407": {
+    "room": "A407",
+    "subject": "DM",
+    "section": "5CSE23",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A407": {
+    "room": "A407",
+    "subject": "PEHV 1",
+    "section": "5CSE23",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE23",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A407": {
+    "room": "A407",
+    "subject": "FLAT",
+    "section": "5CSE23",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A407": {
+    "room": "A407",
+    "subject": "BDT",
+    "section": "5CSE23",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A407": {
+    "room": "A407",
+    "subject": "PE-3",
+    "section": "5CSE23",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A407": {
+    "room": "A407",
+    "subject": "CCT",
+    "section": "5CSE23",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A407": {
+    "room": "A407",
+    "subject": "DM",
+    "section": "5CSE23",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A407": {
+    "room": "A407",
+    "subject": "PE-2",
+    "section": "5CSE23",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A407": {
+    "room": "A407",
+    "subject": "PE-3",
+    "section": "5CSE23",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A407": {
+    "room": "A407",
+    "subject": "FLAT",
+    "section": "5CSE23",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A321": {
+    "room": "A321",
+    "subject": "CCTL (B1)A321 / BDTL (B2)A422",
+    "section": "5CSE23",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_3_A422": {
+    "room": "A422",
+    "subject": "CCTL (B1)A321 / BDTL (B2)A422",
+    "section": "5CSE23",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_6_A407": {
+    "room": "A407",
+    "subject": "BDT",
+    "section": "5CSE23",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A409": {
+    "room": "A409",
+    "subject": "DM",
+    "section": "5CSE24",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A409": {
+    "room": "A409",
+    "subject": "BDT",
+    "section": "5CSE24",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A409": {
+    "room": "A409",
+    "subject": "ML",
+    "section": "5CSE24",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A409": {
+    "room": "A409",
+    "subject": "FLAT",
+    "section": "5CSE24",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A409": {
+    "room": "A409",
+    "subject": "PE-3",
+    "section": "5CSE24",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A409": {
+    "room": "A409",
+    "subject": "PE-2",
+    "section": "5CSE24",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A407": {
+    "room": "A407",
+    "subject": "PEHV 2(A407)",
+    "section": "5CSE24",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE24",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A409": {
+    "room": "A409",
+    "subject": "DM(A409)",
+    "section": "5CSE24",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A409": {
+    "room": "A409",
+    "subject": "ML(A409)",
+    "section": "5CSE24",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A403": {
+    "room": "A403",
+    "subject": "PE-2",
+    "section": "5CSE24",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A403": {
+    "room": "A403",
+    "subject": "CCT",
+    "section": "5CSE24",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A403": {
+    "room": "A403",
+    "subject": "BDT",
+    "section": "5CSE24",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A403": {
+    "room": "A403",
+    "subject": "FLAT",
+    "section": "5CSE24",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A321": {
+    "room": "A321",
+    "subject": "CCTL (B1)A321 / BDTL (B2)A422",
+    "section": "5CSE24",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_1_A422": {
+    "room": "A422",
+    "subject": "CCTL (B1)A321 / BDTL (B2)A422",
+    "section": "5CSE24",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A409": {
+    "room": "A409",
+    "subject": "PE-3",
+    "section": "5CSE24",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A409": {
+    "room": "A409",
+    "subject": "FLAT(A409)",
+    "section": "5CSE24",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A403": {
+    "room": "A403",
+    "subject": "BDT(A403)",
+    "section": "5CSE24",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A409": {
+    "room": "A409",
+    "subject": "PE-3",
+    "section": "5CSE25",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A404": {
+    "room": "A404",
+    "subject": "PE-3",
+    "section": "5CSE24",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A404": {
+    "room": "A404",
+    "subject": "CCT(A404)",
+    "section": "5CSE24",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_6_A408": {
+    "room": "A408",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE24",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_6_A410": {
+    "room": "A410",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE24",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A322": {
+    "room": "A322",
+    "subject": "ML B1/B2 (A322)",
+    "section": "5CSE25",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A403": {
+    "room": "A403",
+    "subject": "FLAT(A403)",
+    "section": "5CSE25",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A403": {
+    "room": "A403",
+    "subject": "DM(A403)",
+    "section": "5CSE25",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A404": {
+    "room": "A404",
+    "subject": "ML(A404)",
+    "section": "5CSE25",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A409": {
+    "room": "A409",
+    "subject": "CCT",
+    "section": "5CSE25",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A409": {
+    "room": "A409",
+    "subject": "BDT",
+    "section": "5CSE25",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A409": {
+    "room": "A409",
+    "subject": "PE-2",
+    "section": "5CSE25",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A409": {
+    "room": "A409",
+    "subject": "FLAT",
+    "section": "5CSE25",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A321": {
+    "room": "A321",
+    "subject": "CCTL (B1)A321 / BDTL(B2)A422",
+    "section": "5CSE25",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_6_A422": {
+    "room": "A422",
+    "subject": "CCTL (B1)A321 / BDTL(B2)A422",
+    "section": "5CSE25",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A409": {
+    "room": "A409",
+    "subject": "PE-2",
+    "section": "5CSE25",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A409": {
+    "room": "A409",
+    "subject": "PE-3",
+    "section": "5CSE25",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A409": {
+    "room": "A409",
+    "subject": "CCT",
+    "section": "5CSE25",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A409": {
+    "room": "A409",
+    "subject": "BDT",
+    "section": "5CSE25",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A409": {
+    "room": "A409",
+    "subject": "PEHV 1",
+    "section": "5CSE25",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A409": {
+    "room": "A409",
+    "subject": "BDT",
+    "section": "5CSE25",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A409": {
+    "room": "A409",
+    "subject": "DM",
+    "section": "5CSE25",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A410": {
+    "room": "A410",
+    "subject": "CCTL(B2)A404 / BDTL (B1)A410",
+    "section": "5CSE25",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A409": {
+    "room": "A409",
+    "subject": "PE-2",
+    "section": "5CSE25",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A409": {
+    "room": "A409",
+    "subject": "DM",
+    "section": "5CSE25",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A409": {
+    "room": "A409",
+    "subject": "ML",
+    "section": "5CSE25",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A409": {
+    "room": "A409",
+    "subject": "PEHV 2",
+    "section": "5CSE25",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_6_A409": {
+    "room": "A409",
+    "subject": "PE-3",
+    "section": "5CSE25",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_7_A409": {
+    "room": "A409",
+    "subject": "FLAT",
+    "section": "5CSE25",
+    "day": "FRI",
+    "period": 7
+  },
+  "MON_1_A411": {
+    "room": "A411",
+    "subject": "DM",
+    "section": "5CSE26",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A411": {
+    "room": "A411",
+    "subject": "FLAT",
+    "section": "5CSE26",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A411": {
+    "room": "A411",
+    "subject": "CCT",
+    "section": "5CSE26",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A411": {
+    "room": "A411",
+    "subject": "BDT",
+    "section": "5CSE26",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A408": {
+    "room": "A408",
+    "subject": "CCTL (B2)A408 / BDTL(B1)A410",
+    "section": "5CSE26",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_6_A410": {
+    "room": "A410",
+    "subject": "CCTL (B2)A408 / BDTL(B1)A410",
+    "section": "5CSE26",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A411": {
+    "room": "A411",
+    "subject": "PEHV 1",
+    "section": "5CSE26",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A411": {
+    "room": "A411",
+    "subject": "PE-2",
+    "section": "5CSE26",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A411": {
+    "room": "A411",
+    "subject": "ML",
+    "section": "5CSE26",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A411": {
+    "room": "A411",
+    "subject": "DM",
+    "section": "5CSE26",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A411": {
+    "room": "A411",
+    "subject": "FLAT",
+    "section": "5CSE26",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A411": {
+    "room": "A411",
+    "subject": "PE-2",
+    "section": "5CSE26",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A411": {
+    "room": "A411",
+    "subject": "PE-3",
+    "section": "5CSE26",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE26",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A411": {
+    "room": "A411",
+    "subject": "BDT",
+    "section": "5CSE26",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A411": {
+    "room": "A411",
+    "subject": "PEHV 2",
+    "section": "5CSE26",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A411": {
+    "room": "A411",
+    "subject": "DM",
+    "section": "5CSE26",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A411": {
+    "room": "A411",
+    "subject": "ML",
+    "section": "5CSE26",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A411": {
+    "room": "A411",
+    "subject": "PE-2",
+    "section": "5CSE26",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A411": {
+    "room": "A411",
+    "subject": "PE-3",
+    "section": "5CSE26",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A321": {
+    "room": "A321",
+    "subject": "CCTL(B1)A321 / BDTL (B2)A422",
+    "section": "5CSE26",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_1_A422": {
+    "room": "A422",
+    "subject": "CCTL(B1)A321 / BDTL (B2)A422",
+    "section": "5CSE26",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A413": {
+    "room": "A413",
+    "subject": "FLAT(A413)",
+    "section": "5CSE26",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A413": {
+    "room": "A413",
+    "subject": "CCT(A413)",
+    "section": "5CSE26",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A413": {
+    "room": "A413",
+    "subject": "PEHV 2",
+    "section": "5CSE27",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_7_A420": {
+    "room": "A420",
+    "subject": "BDT(A420)",
+    "section": "5CSE26",
+    "day": "FRI",
+    "period": 7
+  },
+  "MON_1_A413": {
+    "room": "A413",
+    "subject": "BDT",
+    "section": "5CSE27",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A413": {
+    "room": "A413",
+    "subject": "ML",
+    "section": "5CSE27",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A413": {
+    "room": "A413",
+    "subject": "PE-3",
+    "section": "5CSE27",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A413": {
+    "room": "A413",
+    "subject": "DM",
+    "section": "5CSE27",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A413": {
+    "room": "A413",
+    "subject": "FLAT",
+    "section": "5CSE27",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A413": {
+    "room": "A413",
+    "subject": "PE-2",
+    "section": "5CSE27",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE27",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A420": {
+    "room": "A420",
+    "subject": "CCT(A420)",
+    "section": "5CSE27",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A420": {
+    "room": "A420",
+    "subject": "BDT(A420)",
+    "section": "5CSE27",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A420": {
+    "room": "A420",
+    "subject": "PE-2",
+    "section": "5CSE28",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A420": {
+    "room": "A420",
+    "subject": "PE-3",
+    "section": "5CSE28",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A413": {
+    "room": "A413",
+    "subject": "ML",
+    "section": "5CSE27",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A413": {
+    "room": "A413",
+    "subject": "BDT",
+    "section": "5CSE27",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A413": {
+    "room": "A413",
+    "subject": "PEHV 1",
+    "section": "5CSE27",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A321": {
+    "room": "A321",
+    "subject": "CCTL (B1)A321 / BDTL (B2)A422",
+    "section": "5CSE27",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_6_A422": {
+    "room": "A422",
+    "subject": "CCTL (B1)A321 / BDTL (B2)A422",
+    "section": "5CSE27",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A413": {
+    "room": "A413",
+    "subject": "PE-2",
+    "section": "5CSE27",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A413": {
+    "room": "A413",
+    "subject": "DM",
+    "section": "5CSE27",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A413": {
+    "room": "A413",
+    "subject": "PE-3",
+    "section": "5CSE27",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A413": {
+    "room": "A413",
+    "subject": "FLAT",
+    "section": "5CSE27",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A413": {
+    "room": "A413",
+    "subject": "CCT",
+    "section": "5CSE27",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A413": {
+    "room": "A413",
+    "subject": "DM",
+    "section": "5CSE27",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A413": {
+    "room": "A413",
+    "subject": "FLAT",
+    "section": "5CSE27",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A408": {
+    "room": "A408",
+    "subject": "CCTL (B2)A408 / BDTL (B1)A410",
+    "section": "5CSE27",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_3_A410": {
+    "room": "A410",
+    "subject": "CCTL (B2)A408 / BDTL (B1)A410",
+    "section": "5CSE27",
+    "day": "FRI",
+    "period": 3
+  },
+  "MON_1_A408": {
+    "room": "A408",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE28",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_1_A410": {
+    "room": "A410",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE28",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A420": {
+    "room": "A420",
+    "subject": "PE-3",
+    "section": "5CSE28",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A420": {
+    "room": "A420",
+    "subject": "CCT",
+    "section": "5CSE28",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A420": {
+    "room": "A420",
+    "subject": "DM",
+    "section": "5CSE28",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A420": {
+    "room": "A420",
+    "subject": "PE-2",
+    "section": "5CSE28",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A420": {
+    "room": "A420",
+    "subject": "FLAT",
+    "section": "5CSE28",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A420": {
+    "room": "A420",
+    "subject": "BDT",
+    "section": "5CSE28",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A321": {
+    "room": "A321",
+    "subject": "CCTL (B1)A321 / BDTL (B2)A422",
+    "section": "5CSE28",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_3_A422": {
+    "room": "A422",
+    "subject": "CCTL (B1)A321 / BDTL (B2)A422",
+    "section": "5CSE28",
+    "day": "TUE",
+    "period": 3
+  },
+  "WED_1_A420": {
+    "room": "A420",
+    "subject": "PEHV 1",
+    "section": "5CSE28",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A420": {
+    "room": "A420",
+    "subject": "CCT",
+    "section": "5CSE28",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A420": {
+    "room": "A420",
+    "subject": "BDT",
+    "section": "5CSE28",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A420": {
+    "room": "A420",
+    "subject": "DM",
+    "section": "5CSE28",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A420": {
+    "room": "A420",
+    "subject": "FLAT",
+    "section": "5CSE28",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A420": {
+    "room": "A420",
+    "subject": "PE-2",
+    "section": "5CSE28",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A420": {
+    "room": "A420",
+    "subject": "ML",
+    "section": "5CSE28",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A420": {
+    "room": "A420",
+    "subject": "PE-3",
+    "section": "5CSE28",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A420": {
+    "room": "A420",
+    "subject": "BDT",
+    "section": "5CSE28",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A420": {
+    "room": "A420",
+    "subject": "FLAT",
+    "section": "5CSE28",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A420": {
+    "room": "A420",
+    "subject": "PEHV 2",
+    "section": "5CSE28",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A420": {
+    "room": "A420",
+    "subject": "ML",
+    "section": "5CSE28",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A420": {
+    "room": "A420",
+    "subject": "DM",
+    "section": "5CSE28",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE28",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A420": {
+    "room": "A420",
+    "subject": "DM(A420)",
+    "section": "5CSE29",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A420": {
+    "room": "A420",
+    "subject": "PE-3",
+    "section": "5CSE29",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A321": {
+    "room": "A321",
+    "subject": "CCTL (B1)A321 / BDTL(B2)A422",
+    "section": "5CSE29",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_3_A422": {
+    "room": "A422",
+    "subject": "CCTL (B1)A321 / BDTL(B2)A422",
+    "section": "5CSE29",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A411": {
+    "room": "A411",
+    "subject": "FLAT(A411)",
+    "section": "5CSE29",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A411": {
+    "room": "A411",
+    "subject": "BDT(A411)",
+    "section": "5CSE29",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A413": {
+    "room": "A413",
+    "subject": "ML",
+    "section": "5CSE29",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A413": {
+    "room": "A413",
+    "subject": "PE-2",
+    "section": "5CSE29",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A413": {
+    "room": "A413",
+    "subject": "PEHV 1",
+    "section": "5CSE29",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A413": {
+    "room": "A413",
+    "subject": "BDT",
+    "section": "5CSE29",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A426": {
+    "room": "A426",
+    "subject": "CCT",
+    "section": "5CSE29",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A426": {
+    "room": "A426",
+    "subject": "FLAT",
+    "section": "5CSE29",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A426": {
+    "room": "A426",
+    "subject": "PE-2",
+    "section": "5CSE29",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A426": {
+    "room": "A426",
+    "subject": "PE-3",
+    "section": "5CSE29",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A426": {
+    "room": "A426",
+    "subject": "BDT",
+    "section": "5CSE29",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A426": {
+    "room": "A426",
+    "subject": "DM",
+    "section": "5CSE29",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A408": {
+    "room": "A408",
+    "subject": "CCTL (B2)A408 / BDTL (B1)A410",
+    "section": "5CSE29",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_1_A410": {
+    "room": "A410",
+    "subject": "CCTL (B2)A408 / BDTL (B1)A410",
+    "section": "5CSE29",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A426": {
+    "room": "A426",
+    "subject": "DM",
+    "section": "5CSE29",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A426": {
+    "room": "A426",
+    "subject": "ML",
+    "section": "5CSE29",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE29",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A411": {
+    "room": "A411",
+    "subject": "PE-3",
+    "section": "5CSE29",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A411": {
+    "room": "A411",
+    "subject": "PE-2",
+    "section": "5CSE29",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A411": {
+    "room": "A411",
+    "subject": "FLAT",
+    "section": "5CSE29",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A411": {
+    "room": "A411",
+    "subject": "CCT",
+    "section": "5CSE29",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A411": {
+    "room": "A411",
+    "subject": "PEHV 2",
+    "section": "5CSE29",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A426": {
+    "room": "A426",
+    "subject": "FLAT",
+    "section": "5CSE30",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A426": {
+    "room": "A426",
+    "subject": "PE-3",
+    "section": "5CSE30",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A426": {
+    "room": "A426",
+    "subject": "BDT",
+    "section": "5CSE30",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A426": {
+    "room": "A426",
+    "subject": "DM",
+    "section": "5CSE30",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A426": {
+    "room": "A426",
+    "subject": "PEHV 1",
+    "section": "5CSE30",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A426": {
+    "room": "A426",
+    "subject": "ML",
+    "section": "5CSE30",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A426": {
+    "room": "A426",
+    "subject": "PE-2",
+    "section": "5CSE30",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A426": {
+    "room": "A426",
+    "subject": "DM",
+    "section": "5CSE30",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A426": {
+    "room": "A426",
+    "subject": "BDT",
+    "section": "5CSE30",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A322": {
+    "room": "A322",
+    "subject": "MLL B1/B2 (A322)",
+    "section": "5CSE30",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A408": {
+    "room": "A408",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE30",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_1_A410": {
+    "room": "A410",
+    "subject": "CCTL(B2)A408 / BDTL(B1)A410",
+    "section": "5CSE30",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A411": {
+    "room": "A411",
+    "subject": "PE-2",
+    "section": "5CSE30",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A411": {
+    "room": "A411",
+    "subject": "PE-3",
+    "section": "5CSE30",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A423": {
+    "room": "A423",
+    "subject": "PEHV  2(A423)",
+    "section": "5CSE30",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A426": {
+    "room": "A426",
+    "subject": "DM",
+    "section": "5CSE30",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A426": {
+    "room": "A426",
+    "subject": "FLAT",
+    "section": "5CSE30",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A321": {
+    "room": "A321",
+    "subject": "CCTL(B1)A321 / BDTL(B2)A422",
+    "section": "5CSE30",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_3_A422": {
+    "room": "A422",
+    "subject": "CCTL(B1)A321 / BDTL(B2)A422",
+    "section": "5CSE30",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A426": {
+    "room": "A426",
+    "subject": "CCT",
+    "section": "5CSE30",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A426": {
+    "room": "A426",
+    "subject": "PE-3",
+    "section": "5CSE30",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A426": {
+    "room": "A426",
+    "subject": "PE-2",
+    "section": "5CSE30",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A426": {
+    "room": "A426",
+    "subject": "BDT",
+    "section": "5CSE30",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A426": {
+    "room": "A426",
+    "subject": "ML",
+    "section": "5CSE30",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A426": {
+    "room": "A426",
+    "subject": "CCT",
+    "section": "5CSE30",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_7_A426": {
+    "room": "A426",
+    "subject": "FLAT",
+    "section": "5CSE30",
+    "day": "FRI",
+    "period": 7
+  },
+  "MON_1_A522": {
+    "room": "A522",
+    "subject": "CCTL(B1)A522 / BDTL (B2)A622",
+    "section": "5CSE31",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_1_A622": {
+    "room": "A622",
+    "subject": "CCTL(B1)A522 / BDTL (B2)A622",
+    "section": "5CSE31",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A503": {
+    "room": "A503",
+    "subject": "PEHV  2(A503)",
+    "section": "5CSE31",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A504": {
+    "room": "A504",
+    "subject": "BDT (A504)",
+    "section": "5CSE31",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A503": {
+    "room": "A503",
+    "subject": "PE-3",
+    "section": "5CSE32",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A501": {
+    "room": "A501",
+    "subject": "FLAT",
+    "section": "5CSE31",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A501": {
+    "room": "A501",
+    "subject": "BDT",
+    "section": "5CSE31",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A501": {
+    "room": "A501",
+    "subject": "CCT",
+    "section": "5CSE31",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A501": {
+    "room": "A501",
+    "subject": "PE-2",
+    "section": "5CSE31",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A508": {
+    "room": "A508",
+    "subject": "CCTL (B2)A508 / BDTL(B1)A510",
+    "section": "5CSE31",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_6_A510": {
+    "room": "A510",
+    "subject": "CCTL (B2)A508 / BDTL(B1)A510",
+    "section": "5CSE31",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A501": {
+    "room": "A501",
+    "subject": "FLAT",
+    "section": "5CSE31",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A501": {
+    "room": "A501",
+    "subject": "DM",
+    "section": "5CSE31",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A501": {
+    "room": "A501",
+    "subject": "PE-2",
+    "section": "5CSE31",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A501": {
+    "room": "A501",
+    "subject": "CCT",
+    "section": "5CSE31",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A501": {
+    "room": "A501",
+    "subject": "BDT",
+    "section": "5CSE31",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A501": {
+    "room": "A501",
+    "subject": "ML",
+    "section": "5CSE31",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A501": {
+    "room": "A501",
+    "subject": "PE-3",
+    "section": "5CSE31",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A501": {
+    "room": "A501",
+    "subject": "FLAT",
+    "section": "5CSE31",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE31",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A501": {
+    "room": "A501",
+    "subject": "DM",
+    "section": "5CSE31",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A501": {
+    "room": "A501",
+    "subject": "PEHV 1",
+    "section": "5CSE31",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A501": {
+    "room": "A501",
+    "subject": "DM",
+    "section": "5CSE31",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A501": {
+    "room": "A501",
+    "subject": "PE-3",
+    "section": "5CSE31",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A501": {
+    "room": "A501",
+    "subject": "PE-2",
+    "section": "5CSE31",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_7_A501": {
+    "room": "A501",
+    "subject": "ML",
+    "section": "5CSE31",
+    "day": "FRI",
+    "period": 7
+  },
+  "MON_1_A503": {
+    "room": "A503",
+    "subject": "FLAT",
+    "section": "5CSE32",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A503": {
+    "room": "A503",
+    "subject": "DM",
+    "section": "5CSE32",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A508": {
+    "room": "A508",
+    "subject": "CCTL(B2)A508 / BDTL (B1)510",
+    "section": "5CSE32",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A503": {
+    "room": "A503",
+    "subject": "CCT",
+    "section": "5CSE32",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A503": {
+    "room": "A503",
+    "subject": "PEHV 1",
+    "section": "5CSE32",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A503": {
+    "room": "A503",
+    "subject": "ML",
+    "section": "5CSE32",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A503": {
+    "room": "A503",
+    "subject": "PE-2",
+    "section": "5CSE32",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A503": {
+    "room": "A503",
+    "subject": "FLAT",
+    "section": "5CSE32",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A503": {
+    "room": "A503",
+    "subject": "CCT",
+    "section": "5CSE32",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE32",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A503": {
+    "room": "A503",
+    "subject": "DM(A503)",
+    "section": "5CSE34",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A503": {
+    "room": "A503",
+    "subject": "FLAT(A503)",
+    "section": "5CSE34",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A503": {
+    "room": "A503",
+    "subject": "FLAT",
+    "section": "5CSE32",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A503": {
+    "room": "A503",
+    "subject": "DM",
+    "section": "5CSE32",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A503": {
+    "room": "A503",
+    "subject": "PE-3",
+    "section": "5CSE32",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A503": {
+    "room": "A503",
+    "subject": "DM",
+    "section": "5CSE32",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A503": {
+    "room": "A503",
+    "subject": "ML",
+    "section": "5CSE32",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A503": {
+    "room": "A503",
+    "subject": "BDT",
+    "section": "5CSE32",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A522": {
+    "room": "A522",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE32",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_6_A622": {
+    "room": "A622",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE32",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A503": {
+    "room": "A503",
+    "subject": "PEHV 2",
+    "section": "5CSE32",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A503": {
+    "room": "A503",
+    "subject": "BDT",
+    "section": "5CSE32",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A503": {
+    "room": "A503",
+    "subject": "PE-3",
+    "section": "5CSE32",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A503": {
+    "room": "A503",
+    "subject": "PE-2",
+    "section": "5CSE32",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A504": {
+    "room": "A504",
+    "subject": "PEHV 1",
+    "section": "5CSE33",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A504": {
+    "room": "A504",
+    "subject": "FLAT",
+    "section": "5CSE33",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A504": {
+    "room": "A504",
+    "subject": "BDT",
+    "section": "5CSE33",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE33",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A504": {
+    "room": "A504",
+    "subject": "DM",
+    "section": "5CSE33",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A504": {
+    "room": "A504",
+    "subject": "ML",
+    "section": "5CSE33",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A504": {
+    "room": "A504",
+    "subject": "BDT",
+    "section": "5CSE33",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A504": {
+    "room": "A504",
+    "subject": "FLAT",
+    "section": "5CSE33",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A504": {
+    "room": "A504",
+    "subject": "PE-3",
+    "section": "5CSE33",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A504": {
+    "room": "A504",
+    "subject": "PE-2",
+    "section": "5CSE33",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A504": {
+    "room": "A504",
+    "subject": "PE-2",
+    "section": "5CSE33",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A504": {
+    "room": "A504",
+    "subject": "PE-3",
+    "section": "5CSE33",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A522": {
+    "room": "A522",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE33",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_3_A622": {
+    "room": "A622",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE33",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A504": {
+    "room": "A504",
+    "subject": "CCT",
+    "section": "5CSE33",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A504": {
+    "room": "A504",
+    "subject": "ML",
+    "section": "5CSE33",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A504": {
+    "room": "A504",
+    "subject": "PE-2",
+    "section": "5CSE33",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A504": {
+    "room": "A504",
+    "subject": "BDT",
+    "section": "5CSE33",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A504": {
+    "room": "A504",
+    "subject": "PE-3",
+    "section": "5CSE33",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A504": {
+    "room": "A504",
+    "subject": "FLAT",
+    "section": "5CSE33",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A504": {
+    "room": "A504",
+    "subject": "CCT",
+    "section": "5CSE33",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A504": {
+    "room": "A504",
+    "subject": "DM",
+    "section": "5CSE33",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A508": {
+    "room": "A508",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE33",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_1_A510": {
+    "room": "A510",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE33",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A504": {
+    "room": "A504",
+    "subject": "PEHV 2",
+    "section": "5CSE33",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_6_A504": {
+    "room": "A504",
+    "subject": "DM",
+    "section": "5CSE33",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A501": {
+    "room": "A501",
+    "subject": "CCT",
+    "section": "5CSE34",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A501": {
+    "room": "A501",
+    "subject": "FLAT",
+    "section": "5CSE34",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A501": {
+    "room": "A501",
+    "subject": "DM",
+    "section": "5CSE34",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A501": {
+    "room": "A501",
+    "subject": "BDT",
+    "section": "5CSE34",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A501": {
+    "room": "A501",
+    "subject": "PEHV 2",
+    "section": "5CSE34",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A522": {
+    "room": "A522",
+    "subject": "CCTL (B1)A522 / BDTL(B2)A622",
+    "section": "5CSE34",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_1_A622": {
+    "room": "A622",
+    "subject": "CCTL (B1)A522 / BDTL(B2)A622",
+    "section": "5CSE34",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A507": {
+    "room": "A507",
+    "subject": "FLAT(A507)",
+    "section": "5CSE34",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A507": {
+    "room": "A507",
+    "subject": "ML(A507)",
+    "section": "5CSE34",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A507": {
+    "room": "A507",
+    "subject": "FLAT",
+    "section": "5CSE35",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A507": {
+    "room": "A507",
+    "subject": "PEHV 1",
+    "section": "5CSE35",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A503": {
+    "room": "A503",
+    "subject": "PE-2",
+    "section": "5CSE34",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A503": {
+    "room": "A503",
+    "subject": "PE-3",
+    "section": "5CSE34",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_6_A510": {
+    "room": "A510",
+    "subject": "CCTL(B2)508 / BDTL(B1)A510",
+    "section": "5CSE34",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A507": {
+    "room": "A507",
+    "subject": "PE-2",
+    "section": "5CSE34",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A507": {
+    "room": "A507",
+    "subject": "CCT",
+    "section": "5CSE34",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A507": {
+    "room": "A507",
+    "subject": "PE-3",
+    "section": "5CSE34",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A507": {
+    "room": "A507",
+    "subject": "BDT",
+    "section": "5CSE34",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A507": {
+    "room": "A507",
+    "subject": "PEHV 1",
+    "section": "5CSE34",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A504": {
+    "room": "A504",
+    "subject": "DM(A504)",
+    "section": "5CSE34",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A504": {
+    "room": "A504",
+    "subject": "BDT(A504)",
+    "section": "5CSE34",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE34",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_6_A507": {
+    "room": "A507",
+    "subject": "ML(A507)",
+    "section": "5CSE34",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A507": {
+    "room": "A507",
+    "subject": "ML",
+    "section": "5CSE35",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A507": {
+    "room": "A507",
+    "subject": "PE-3",
+    "section": "5CSE35",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A507": {
+    "room": "A507",
+    "subject": "FLAT",
+    "section": "5CSE35",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A507": {
+    "room": "A507",
+    "subject": "CCT",
+    "section": "5CSE35",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A507": {
+    "room": "A507",
+    "subject": "PE-2",
+    "section": "5CSE35",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A507": {
+    "room": "A507",
+    "subject": "BDT",
+    "section": "5CSE35",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A507": {
+    "room": "A507",
+    "subject": "PE-3",
+    "section": "5CSE35",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A522": {
+    "room": "A522",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE35",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_3_A622": {
+    "room": "A622",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE35",
+    "day": "TUE",
+    "period": 3
+  },
+  "WED_1_A507": {
+    "room": "A507",
+    "subject": "DM",
+    "section": "5CSE35",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A507": {
+    "room": "A507",
+    "subject": "BDT",
+    "section": "5CSE35",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A507": {
+    "room": "A507",
+    "subject": "PE-3",
+    "section": "5CSE35",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A507": {
+    "room": "A507",
+    "subject": "ML",
+    "section": "5CSE35",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A507": {
+    "room": "A507",
+    "subject": "PE-2",
+    "section": "5CSE35",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE35",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A501": {
+    "room": "A501",
+    "subject": "PEHV 2 (A501)",
+    "section": "5CSE35",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A503": {
+    "room": "A503",
+    "subject": "BDT(A503)",
+    "section": "5CSE35",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A503": {
+    "room": "A503",
+    "subject": "DM(A503)",
+    "section": "5CSE35",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A507": {
+    "room": "A507",
+    "subject": "DM",
+    "section": "5CSE35",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A507": {
+    "room": "A507",
+    "subject": "CCT",
+    "section": "5CSE35",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A507": {
+    "room": "A507",
+    "subject": "FLAT",
+    "section": "5CSE35",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A507": {
+    "room": "A507",
+    "subject": "PE-2",
+    "section": "5CSE35",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A508": {
+    "room": "A508",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE35",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_6_A510": {
+    "room": "A510",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE35",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A509": {
+    "room": "A509",
+    "subject": "DM",
+    "section": "5CSE36",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A509": {
+    "room": "A509",
+    "subject": "PE-3",
+    "section": "5CSE36",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE36",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A509": {
+    "room": "A509",
+    "subject": "PE-2",
+    "section": "5CSE36",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A509": {
+    "room": "A509",
+    "subject": "BDT",
+    "section": "5CSE36",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A509": {
+    "room": "A509",
+    "subject": "FLAT",
+    "section": "5CSE36",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A509": {
+    "room": "A509",
+    "subject": "PE-3",
+    "section": "5CSE36",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A509": {
+    "room": "A509",
+    "subject": "PEHV 1",
+    "section": "5CSE36",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A509": {
+    "room": "A509",
+    "subject": "BDT",
+    "section": "5CSE36",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A509": {
+    "room": "A509",
+    "subject": "CCT",
+    "section": "5CSE36",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A509": {
+    "room": "A509",
+    "subject": "PEHV 2",
+    "section": "5CSE36",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A509": {
+    "room": "A509",
+    "subject": "PE-3",
+    "section": "5CSE36",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A509": {
+    "room": "A509",
+    "subject": "ML",
+    "section": "5CSE36",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A509": {
+    "room": "A509",
+    "subject": "PE-2",
+    "section": "5CSE36",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A509": {
+    "room": "A509",
+    "subject": "BDT",
+    "section": "5CSE36",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A509": {
+    "room": "A509",
+    "subject": "DM",
+    "section": "5CSE36",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A509": {
+    "room": "A509",
+    "subject": "FLAT",
+    "section": "5CSE36",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A509": {
+    "room": "A509",
+    "subject": "CCT",
+    "section": "5CSE36",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A508": {
+    "room": "A508",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE36",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_6_A510": {
+    "room": "A510",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE36",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A509": {
+    "room": "A509",
+    "subject": "ML",
+    "section": "5CSE36",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A509": {
+    "room": "A509",
+    "subject": "FLAT",
+    "section": "5CSE36",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A509": {
+    "room": "A509",
+    "subject": "DM",
+    "section": "5CSE36",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A509": {
+    "room": "A509",
+    "subject": "PE-2",
+    "section": "5CSE36",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A522": {
+    "room": "A522",
+    "subject": "CCTL(B1)A522 / BDTL (B2)A622",
+    "section": "5CSE36",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_6_A622": {
+    "room": "A622",
+    "subject": "CCTL(B1)A522 / BDTL (B2)A622",
+    "section": "5CSE36",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A511": {
+    "room": "A511",
+    "subject": "BDT",
+    "section": "5CSE37",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A511": {
+    "room": "A511",
+    "subject": "PE-3",
+    "section": "5CSE37",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A511": {
+    "room": "A511",
+    "subject": "DM",
+    "section": "5CSE37",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A511": {
+    "room": "A511",
+    "subject": "FLAT",
+    "section": "5CSE37",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A522": {
+    "room": "A522",
+    "subject": "CCTL A522(B1) / BDTL (B2)A622",
+    "section": "5CSE37",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_6_A622": {
+    "room": "A622",
+    "subject": "CCTL A522(B1) / BDTL (B2)A622",
+    "section": "5CSE37",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A511": {
+    "room": "A511",
+    "subject": "PEHV 2",
+    "section": "5CSE37",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A511": {
+    "room": "A511",
+    "subject": "ML",
+    "section": "5CSE37",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A511": {
+    "room": "A511",
+    "subject": "PE-3",
+    "section": "5CSE37",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A511": {
+    "room": "A511",
+    "subject": "PE-2",
+    "section": "5CSE37",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A511": {
+    "room": "A511",
+    "subject": "PE-2",
+    "section": "5CSE37",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A511": {
+    "room": "A511",
+    "subject": "CCT",
+    "section": "5CSE37",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A508": {
+    "room": "A508",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE37",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_3_A510": {
+    "room": "A510",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE37",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A511": {
+    "room": "A511",
+    "subject": "DM",
+    "section": "5CSE37",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A511": {
+    "room": "A511",
+    "subject": "FLAT",
+    "section": "5CSE37",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A511": {
+    "room": "A511",
+    "subject": "PE-3",
+    "section": "5CSE37",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A511": {
+    "room": "A511",
+    "subject": "ML",
+    "section": "5CSE37",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A511": {
+    "room": "A511",
+    "subject": "DM",
+    "section": "5CSE37",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A511": {
+    "room": "A511",
+    "subject": "FLAT",
+    "section": "5CSE37",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A511": {
+    "room": "A511",
+    "subject": "BDT",
+    "section": "5CSE37",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A511": {
+    "room": "A511",
+    "subject": "CCT",
+    "section": "5CSE37",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE37",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A513": {
+    "room": "A513",
+    "subject": "PEHV 1(A513)",
+    "section": "5CSE37",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_6_A513": {
+    "room": "A513",
+    "subject": "FLAT",
+    "section": "5CSE38",
+    "day": "FRI",
+    "period": 6
+  },
+  "FRI_7_A513": {
+    "room": "A513",
+    "subject": "PE-2",
+    "section": "5CSE38",
+    "day": "FRI",
+    "period": 7
+  },
+  "MON_1_A513": {
+    "room": "A513",
+    "subject": "DM",
+    "section": "5CSE38",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A513": {
+    "room": "A513",
+    "subject": "PE-3",
+    "section": "5CSE38",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A513": {
+    "room": "A513",
+    "subject": "PEHV 1",
+    "section": "5CSE38",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_6_A513": {
+    "room": "A513",
+    "subject": "BDT",
+    "section": "5CSE38",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_7_A513": {
+    "room": "A513",
+    "subject": "FLAT",
+    "section": "5CSE38",
+    "day": "MON",
+    "period": 7
+  },
+  "TUE_1_A508": {
+    "room": "A508",
+    "subject": "CCTL   (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE38",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_1_A510": {
+    "room": "A510",
+    "subject": "CCTL   (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE38",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A513": {
+    "room": "A513",
+    "subject": "CCT",
+    "section": "5CSE38",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A513": {
+    "room": "A513",
+    "subject": "PE-3",
+    "section": "5CSE38",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A513": {
+    "room": "A513",
+    "subject": "PE-2",
+    "section": "5CSE38",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A513": {
+    "room": "A513",
+    "subject": "BDT",
+    "section": "5CSE38",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A513": {
+    "room": "A513",
+    "subject": "PE-2",
+    "section": "5CSE38",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A513": {
+    "room": "A513",
+    "subject": "ML",
+    "section": "5CSE38",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A513": {
+    "room": "A513",
+    "subject": "FLAT",
+    "section": "5CSE38",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A513": {
+    "room": "A513",
+    "subject": "DM",
+    "section": "5CSE38",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE38",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A513": {
+    "room": "A513",
+    "subject": "PE-3",
+    "section": "5CSE38",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A513": {
+    "room": "A513",
+    "subject": "BDT",
+    "section": "5CSE38",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A513": {
+    "room": "A513",
+    "subject": "PEHV 2",
+    "section": "5CSE38",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_6_A513": {
+    "room": "A513",
+    "subject": "ML",
+    "section": "5CSE38",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A513": {
+    "room": "A513",
+    "subject": "DM",
+    "section": "5CSE38",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A513": {
+    "room": "A513",
+    "subject": "CCT",
+    "section": "5CSE38",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A522": {
+    "room": "A522",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE38",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_3_A622": {
+    "room": "A622",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE38",
+    "day": "FRI",
+    "period": 3
+  },
+  "MON_1_A520": {
+    "room": "A520",
+    "subject": "CCT",
+    "section": "5CSE39",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A520": {
+    "room": "A520",
+    "subject": "FLAT",
+    "section": "5CSE39",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A520": {
+    "room": "A520",
+    "subject": "PE-3",
+    "section": "5CSE39",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A520": {
+    "room": "A520",
+    "subject": "PE-2",
+    "section": "5CSE39",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A520": {
+    "room": "A520",
+    "subject": "ML",
+    "section": "5CSE39",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A513": {
+    "room": "A513",
+    "subject": "DM(A513)",
+    "section": "5CSE39",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A513": {
+    "room": "A513",
+    "subject": "FLAT(A513)",
+    "section": "5CSE39",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE39",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_6_A520": {
+    "room": "A520",
+    "subject": "CCT(A520)",
+    "section": "5CSE39",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A520": {
+    "room": "A520",
+    "subject": "PEHV 2(A520)",
+    "section": "5CSE39",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A508": {
+    "room": "A508",
+    "subject": "CCTL  (B2)A508 / BDTL  (B1)A510",
+    "section": "5CSE39",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_1_A510": {
+    "room": "A510",
+    "subject": "CCTL  (B2)A508 / BDTL  (B1)A510",
+    "section": "5CSE39",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_3_A511": {
+    "room": "A511",
+    "subject": "PE-2",
+    "section": "5CSE39",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A511": {
+    "room": "A511",
+    "subject": "PE-3",
+    "section": "5CSE39",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A513": {
+    "room": "A513",
+    "subject": "BDT(A513)",
+    "section": "5CSE39",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A513": {
+    "room": "A513",
+    "subject": "PEHV 1(A513)",
+    "section": "5CSE39",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A522": {
+    "room": "A522",
+    "subject": "CCTL  (B1)A522 / BDTL  (B2)A622",
+    "section": "5CSE39",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_1_A622": {
+    "room": "A622",
+    "subject": "CCTL  (B1)A522 / BDTL  (B2)A622",
+    "section": "5CSE39",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_3_A520": {
+    "room": "A520",
+    "subject": "DM (A520)",
+    "section": "5CSE39",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A520": {
+    "room": "A520",
+    "subject": "BDT (A520)",
+    "section": "5CSE39",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A520": {
+    "room": "A520",
+    "subject": "PE-2",
+    "section": "5CSE40",
+    "day": "THUR",
+    "period": 6
+  },
+  "FRI_1_A511": {
+    "room": "A511",
+    "subject": "FLAT",
+    "section": "5CSE39",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A511": {
+    "room": "A511",
+    "subject": "BDT",
+    "section": "5CSE39",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A511": {
+    "room": "A511",
+    "subject": "ML",
+    "section": "5CSE39",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A511": {
+    "room": "A511",
+    "subject": "DM",
+    "section": "5CSE39",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A511": {
+    "room": "A511",
+    "subject": "PE-3",
+    "section": "5CSE39",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE40",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_3_A509": {
+    "room": "A509",
+    "subject": "PE-3",
+    "section": "5CSE40",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A509": {
+    "room": "A509",
+    "subject": "PE-2",
+    "section": "5CSE40",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A511": {
+    "room": "A511",
+    "subject": "DM(A511)",
+    "section": "5CSE40",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A520": {
+    "room": "A520",
+    "subject": "FLAT",
+    "section": "5CSE40",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_2_A520": {
+    "room": "A520",
+    "subject": "BDT",
+    "section": "5CSE40",
+    "day": "TUE",
+    "period": 2
+  },
+  "TUE_3_A520": {
+    "room": "A520",
+    "subject": "DM",
+    "section": "5CSE40",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A520": {
+    "room": "A520",
+    "subject": "CCT",
+    "section": "5CSE40",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A522": {
+    "room": "A522",
+    "subject": "CCTL   (B1)A522 / BDTL(B2)A622",
+    "section": "5CSE40",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_6_A622": {
+    "room": "A622",
+    "subject": "CCTL   (B1)A522 / BDTL(B2)A622",
+    "section": "5CSE40",
+    "day": "TUE",
+    "period": 6
+  },
+  "WED_1_A520": {
+    "room": "A520",
+    "subject": "BDT",
+    "section": "5CSE40",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A520": {
+    "room": "A520",
+    "subject": "ML",
+    "section": "5CSE40",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A520": {
+    "room": "A520",
+    "subject": "PE-2",
+    "section": "5CSE40",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A520": {
+    "room": "A520",
+    "subject": "PE-3",
+    "section": "5CSE40",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A520": {
+    "room": "A520",
+    "subject": "FLAT",
+    "section": "5CSE40",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_7_A520": {
+    "room": "A520",
+    "subject": "PEHV 2",
+    "section": "5CSE40",
+    "day": "WED",
+    "period": 7
+  },
+  "THUR_1_A520": {
+    "room": "A520",
+    "subject": "ML",
+    "section": "5CSE40",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A520": {
+    "room": "A520",
+    "subject": "DM",
+    "section": "5CSE40",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A508": {
+    "room": "A508",
+    "subject": "CCTL  (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE40",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_3_A510": {
+    "room": "A510",
+    "subject": "CCTL  (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE40",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_7_A520": {
+    "room": "A520",
+    "subject": "BDT",
+    "section": "5CSE40",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A520": {
+    "room": "A520",
+    "subject": "PEHV 1",
+    "section": "5CSE40",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A520": {
+    "room": "A520",
+    "subject": "CCT",
+    "section": "5CSE40",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A520": {
+    "room": "A520",
+    "subject": "FLAT",
+    "section": "5CSE40",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A520": {
+    "room": "A520",
+    "subject": "PE-3",
+    "section": "5CSE40",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A526": {
+    "room": "A526",
+    "subject": "PE-2",
+    "section": "5CSE41",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A526": {
+    "room": "A526",
+    "subject": "FLAT",
+    "section": "5CSE41",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A526": {
+    "room": "A526",
+    "subject": "BDT",
+    "section": "5CSE41",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A526": {
+    "room": "A526",
+    "subject": "DM",
+    "section": "5CSE41",
+    "day": "MON",
+    "period": 4
+  },
+  "MON_6_A508": {
+    "room": "A508",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE41",
+    "day": "MON",
+    "period": 6
+  },
+  "MON_6_A510": {
+    "room": "A510",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE41",
+    "day": "MON",
+    "period": 6
+  },
+  "TUE_1_A526": {
+    "room": "A526",
+    "subject": "PEHV 1",
+    "section": "5CSE41",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A526": {
+    "room": "A526",
+    "subject": "PE-2",
+    "section": "5CSE41",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A526": {
+    "room": "A526",
+    "subject": "DM",
+    "section": "5CSE41",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A526": {
+    "room": "A526",
+    "subject": "PE-3",
+    "section": "5CSE41",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A526": {
+    "room": "A526",
+    "subject": "PEHV 2",
+    "section": "5CSE41",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A526": {
+    "room": "A526",
+    "subject": "PE-3",
+    "section": "5CSE41",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A526": {
+    "room": "A526",
+    "subject": "CCT",
+    "section": "5CSE41",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE41",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_6_A526": {
+    "room": "A526",
+    "subject": "ML",
+    "section": "5CSE41",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A526": {
+    "room": "A526",
+    "subject": "CCT",
+    "section": "5CSE41",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A526": {
+    "room": "A526",
+    "subject": "PE-2",
+    "section": "5CSE41",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A526": {
+    "room": "A526",
+    "subject": "PE-3",
+    "section": "5CSE41",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A526": {
+    "room": "A526",
+    "subject": "FLAT",
+    "section": "5CSE41",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A526": {
+    "room": "A526",
+    "subject": "ML",
+    "section": "5CSE41",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A526": {
+    "room": "A526",
+    "subject": "BDT",
+    "section": "5CSE41",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A522": {
+    "room": "A522",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE41",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_1_A622": {
+    "room": "A622",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE41",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_3_A526": {
+    "room": "A526",
+    "subject": "BDT",
+    "section": "5CSE41",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_4_A526": {
+    "room": "A526",
+    "subject": "DM",
+    "section": "5CSE41",
+    "day": "FRI",
+    "period": 4
+  },
+  "FRI_6_A526": {
+    "room": "A526",
+    "subject": "FLAT",
+    "section": "5CSE41",
+    "day": "FRI",
+    "period": 6
+  },
+  "MON_1_A423": {
+    "room": "A423",
+    "subject": "PE-2",
+    "section": "5CSE42",
+    "day": "MON",
+    "period": 1
+  },
+  "MON_2_A423": {
+    "room": "A423",
+    "subject": "BDT",
+    "section": "5CSE42",
+    "day": "MON",
+    "period": 2
+  },
+  "MON_3_A423": {
+    "room": "A423",
+    "subject": "CCT",
+    "section": "5CSE42",
+    "day": "MON",
+    "period": 3
+  },
+  "MON_4_A423": {
+    "room": "A423",
+    "subject": "FLAT",
+    "section": "5CSE42",
+    "day": "MON",
+    "period": 4
+  },
+  "TUE_1_A822": {
+    "room": "A822",
+    "subject": "MLL A822 B1/B2 A808",
+    "section": "5CSE42",
+    "day": "TUE",
+    "period": 1
+  },
+  "TUE_3_A423": {
+    "room": "A423",
+    "subject": "PE-2",
+    "section": "5CSE42",
+    "day": "TUE",
+    "period": 3
+  },
+  "TUE_4_A423": {
+    "room": "A423",
+    "subject": "BDT",
+    "section": "5CSE42",
+    "day": "TUE",
+    "period": 4
+  },
+  "TUE_6_A423": {
+    "room": "A423",
+    "subject": "PE-3",
+    "section": "5CSE42",
+    "day": "TUE",
+    "period": 6
+  },
+  "TUE_7_A423": {
+    "room": "A423",
+    "subject": "PEHV 1",
+    "section": "5CSE42",
+    "day": "TUE",
+    "period": 7
+  },
+  "WED_1_A423": {
+    "room": "A423",
+    "subject": "PE-3",
+    "section": "5CSE42",
+    "day": "WED",
+    "period": 1
+  },
+  "WED_2_A423": {
+    "room": "A423",
+    "subject": "DM",
+    "section": "5CSE42",
+    "day": "WED",
+    "period": 2
+  },
+  "WED_3_A423": {
+    "room": "A423",
+    "subject": "FLAT",
+    "section": "5CSE42",
+    "day": "WED",
+    "period": 3
+  },
+  "WED_4_A423": {
+    "room": "A423",
+    "subject": "ML",
+    "section": "5CSE42",
+    "day": "WED",
+    "period": 4
+  },
+  "WED_6_A522": {
+    "room": "A522",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE42",
+    "day": "WED",
+    "period": 6
+  },
+  "WED_6_A622": {
+    "room": "A622",
+    "subject": "CCTL (B1)A522 / BDTL (B2)A622",
+    "section": "5CSE42",
+    "day": "WED",
+    "period": 6
+  },
+  "THUR_1_A423": {
+    "room": "A423",
+    "subject": "BDT",
+    "section": "5CSE42",
+    "day": "THUR",
+    "period": 1
+  },
+  "THUR_2_A423": {
+    "room": "A423",
+    "subject": "PE-2",
+    "section": "5CSE42",
+    "day": "THUR",
+    "period": 2
+  },
+  "THUR_3_A423": {
+    "room": "A423",
+    "subject": "PE-3",
+    "section": "5CSE42",
+    "day": "THUR",
+    "period": 3
+  },
+  "THUR_4_A423": {
+    "room": "A423",
+    "subject": "DM",
+    "section": "5CSE42",
+    "day": "THUR",
+    "period": 4
+  },
+  "THUR_6_A423": {
+    "room": "A423",
+    "subject": "FLAT",
+    "section": "5CSE42",
+    "day": "THUR",
+    "period": 6
+  },
+  "THUR_7_A423": {
+    "room": "A423",
+    "subject": "CCT",
+    "section": "5CSE42",
+    "day": "THUR",
+    "period": 7
+  },
+  "FRI_1_A423": {
+    "room": "A423",
+    "subject": "DM",
+    "section": "5CSE42",
+    "day": "FRI",
+    "period": 1
+  },
+  "FRI_2_A423": {
+    "room": "A423",
+    "subject": "ML",
+    "section": "5CSE42",
+    "day": "FRI",
+    "period": 2
+  },
+  "FRI_3_A508": {
+    "room": "A508",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE42",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_3_A510": {
+    "room": "A510",
+    "subject": "CCTL (B2)A508 / BDTL (B1)A510",
+    "section": "5CSE42",
+    "day": "FRI",
+    "period": 3
+  },
+  "FRI_6_A423": {
+    "room": "A423",
+    "subject": "PEHV 2",
+    "section": "5CSE42",
+    "day": "FRI",
+    "period": 6
+  }
+}

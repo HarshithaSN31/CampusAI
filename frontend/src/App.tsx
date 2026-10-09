@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Navbar } from "./components/Navbar";
+import { AppSidebar } from "./components/AppSidebar";
 import { DashboardView } from "./pages/DashboardView";
 import { TimetableView } from "./pages/TimetableView";
 import { RoomFinderView } from "./pages/RoomFinderView";
@@ -8,7 +8,7 @@ import { MaintenanceView } from "./pages/MaintenanceView";
 import { fetchSections } from "./services/api";
 
 export function App() {
-  const [currentTab, setCurrentTab] = useState<string>("dashboard");
+  const [currentTab, setCurrentTab] = useState<string>("rooms"); // Default to Room finder as shown in screenshot
   const [selectedSection, setSelectedSection] = useState<string>("5CSE01");
   const [sections, setSections] = useState<string[]>([
     "5CSE01", "5CSE02", "5CSE03", "5CSE04", "5CSE05", "5CSE06", "5CSE07", "5CSE08",
@@ -50,27 +50,26 @@ export function App() {
       case "maintenance":
         return <MaintenanceView />;
       default:
-        return <DashboardView onNavigate={setCurrentTab} />;
+        return <RoomFinderView />;
     }
   };
 
   return (
-    <div className="min-h-screen flex flex-col antialiased selection:bg-[var(--primary)] selection:text-[var(--primary-foreground)]">
-      {/* Top Navbar */}
-      <Navbar currentTab={currentTab} setCurrentTab={setCurrentTab} />
+    <div className="min-h-screen bg-[#070c14] text-slate-100 flex font-sans antialiased">
+      {/* Left Sidebar */}
+      <AppSidebar currentTab={currentTab} setCurrentTab={setCurrentTab} />
 
-      {/* Main Content Area (Max width 6xl matching Lovable) */}
-      <main className="flex-1 max-w-6xl w-full mx-auto px-4 sm:px-6 py-8">
-        {renderView()}
-      </main>
+      {/* Main Content Pane */}
+      <div className="flex-1 flex flex-col min-w-0">
+        <main className="flex-1 max-w-7xl w-full mx-auto p-6 md:p-8">
+          {renderView()}
+        </main>
 
-      {/* Subtle Footer */}
-      <footer className="border-t border-[var(--border)] py-6 text-center text-xs text-[var(--muted-foreground)]">
-        <div className="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
+        <footer className="border-t border-[#141e2e] py-4 px-8 text-xs text-slate-500 flex items-center justify-between">
           <span>CampusAI — Smart Campus Intelligence Platform</span>
-          <span className="font-mono text-[11px]">Department of Computer Science & Engineering · 2026–27</span>
-        </div>
-      </footer>
+          <span className="font-mono text-[11px]">Academic Year 2026–2027 · Semester V</span>
+        </footer>
+      </div>
     </div>
   );
 }
